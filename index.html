@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>SDCS - Indice de Juegos</title>
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    background: #0d1117;
+    color: white;
+    min-height: 100vh;
+}
+.header {
+    background: linear-gradient(180deg, #1a1f2e 0%, #0d1117 100%);
+    padding: 16px 22px;
+    border-bottom: 2px solid #00d4aa;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 12px;
+}
+.logo-wrap { display: flex; align-items: center; gap: 14px; }
+.logo {
+    width: 36px; height: 36px;
+    background: #00d4aa;
+    border-radius: 4px;
+    display: flex; align-items: center; justify-content: center;
+    font-weight: 600; font-size: 14px; color: #0d1117;
+}
+.titulo-sub { font-size: 11px; color: #00d4aa; letter-spacing: 1.5px; text-transform: uppercase; }
+.titulo-main { font-size: 14px; color: white; font-weight: 500; }
+.stats { display: flex; gap: 18px; font-size: 11px; }
+.stat { text-align: right; }
+.stat-label { color: #6b7280; text-transform: uppercase; letter-spacing: 1px; }
+.stat-num { color: #00d4aa; font-weight: 600; font-size: 16px; }
+.stat-num.blanco { color: white; }
+.toolbar {
+    padding: 14px 22px;
+    display: flex; gap: 8px;
+    background: #0d1117;
+    border-bottom: 1px solid rgba(255,255,255,0.05);
+}
+.toolbar input {
+    flex: 1;
+    background: rgba(255,255,255,0.04);
+    border: 1px solid rgba(255,255,255,0.08);
+    color: white;
+    padding: 8px 12px;
+    border-radius: 4px;
+    font-size: 13px;
+}
+.toolbar input:focus { outline: 1px solid #00d4aa; }
+.filtros {
+    padding: 14px 22px;
+    display: flex; gap: 6px; flex-wrap: wrap;
+    background: #0d1117;
+    border-bottom: 1px solid rgba(255,255,255,0.05);
+}
+.btn-letra {
+    font-size: 11px;
+    padding: 4px 10px;
+    border-radius: 4px;
+    background: rgba(255,255,255,0.04);
+    color: #9ca3af;
+    border: 1px solid rgba(255,255,255,0.08);
+    cursor: pointer;
+    user-select: none;
+    transition: all 0.15s;
+}
+.btn-letra:hover { color: white; }
+.btn-letra.activo {
+    background: rgba(0,212,170,0.15);
+    color: #00d4aa;
+    border-color: rgba(0,212,170,0.3);
+    font-weight: 500;
+}
+.contenido { padding: 18px 22px; }
+.titulo-seccion {
+    font-size: 10px;
+    color: #6b7280;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    margin-bottom: 12px;
+}
+.seccion-letra { margin-bottom: 24px; }
+.grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+    gap: 10px;
+}
+.card {
+    border-radius: 6px;
+    overflow: hidden;
+    background: #161b22;
+    border: 1px solid rgba(255,255,255,0.05);
+    cursor: pointer;
+    text-decoration: none;
+    color: white;
+    transition: all 0.15s;
+    display: flex;
+    flex-direction: column;
+}
+.card:hover {
+    border-color: #00d4aa;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0,212,170,0.2);
+}
+.card .cover {
+    aspect-ratio: 16/9;
+    background-color: #1a3a5c;
+    position: relative;
+}
+.badge-new {
+    position: absolute;
+    top: 6px; right: 6px;
+    background: rgba(0,0,0,0.7);
+    padding: 2px 6px;
+    border-radius: 3px;
+    font-size: 9px;
+    color: #00d4aa;
+    font-weight: 500;
+    letter-spacing: 0.5px;
+}
+.card .nombre {
+    padding: 6px 8px;
+    font-size: 11px;
+    font-weight: 500;
+    color: white;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.footer {
+    background: #0a0d12;
+    padding: 10px 22px;
+    border-top: 1px solid rgba(255,255,255,0.05);
+    display: flex;
+    justify-content: space-between;
+    font-size: 10px;
+    color: #6b7280;
+    letter-spacing: 0.5px;
+}
+.oculto { display: none !important; }
+@media (max-width: 600px) {
+    .grid { grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); }
+    .stats { font-size: 10px; }
+}
+</style>
+</head>
+<body>
+
+<div class="header">
+    <div class="logo-wrap">
+        <div class="logo">SQ</div>
+        <div>
+            <div class="titulo-sub">SDCS</div>
+            <div class="titulo-main">Squad_277</div>
+        </div>
+    </div>
+    <div class="stats">
+        <div class="stat">
+            <div class="stat-label">Coleccion</div>
+            <div class="stat-num">6</div>
+        </div>
+    </div>
+</div>
+
+<div class="toolbar">
+    <input type="text" id="buscador" placeholder="Buscar juego..." />
+</div>
+
+<div class="filtros">
+    <span class="btn-letra activo" data-letra="todos">Todos</span>
+<span class="btn-letra" data-letra="D">D</span>
+<span class="btn-letra" data-letra="H">H</span>
+<span class="btn-letra" data-letra="K">K</span>
+<span class="btn-letra" data-letra="S">S</span>
+<span class="btn-letra" data-letra="T">T</span>
+</div>
+
+<div class="contenido">
+    <div class="seccion-letra" data-letra="DESTACADOS">
+        <div class="titulo-seccion">DESTACADOS</div>
+        <div class="grid">
+            
+        <a href="https://t.me/c/3745106644/35" target="_blank" class="card" data-letra="H" data-nombre="humanitz">
+            <div class="cover" style="background: linear-gradient(135deg, #2a4a6a, #3d6b8d);"><div class="badge-new">NEW</div></div>
+            <div class="nombre">HUMANITZ</div>
+        </a>
+
+        <a href="https://t.me/c/3745106644/24" target="_blank" class="card" data-letra="K" data-nombre="kristala">
+            <div class="cover" style="background: linear-gradient(135deg, #2a4a6a, #3d6b8d);"><div class="badge-new">NEW</div></div>
+            <div class="nombre">KRISTALA</div>
+        </a>
+
+        <a href="https://t.me/c/3745106644/14" target="_blank" class="card" data-letra="T" data-nombre="the crew™ 2">
+            <div class="cover" style="background: linear-gradient(135deg, #2a4a6a, #3d6b8d);"><div class="badge-new">NEW</div></div>
+            <div class="nombre">THE CREW™ 2</div>
+        </a>
+
+        <a href="https://t.me/c/3745106644/9" target="_blank" class="card" data-letra="S" data-nombre="sudden strike 5">
+            <div class="cover" style="background: linear-gradient(135deg, #2a4a6a, #3d6b8d);"><div class="badge-new">NEW</div></div>
+            <div class="nombre">SUDDEN STRIKE 5</div>
+        </a>
+        </div>
+    </div>
+    
+        <div class="seccion-letra" data-letra="D">
+            <div class="titulo-seccion">LETRA D · 2 JUEGOS</div>
+            <div class="grid">
+                
+        <a href="https://t.me/c/3745106644/2" target="_blank" class="card" data-letra="D" data-nombre="darkswitch">
+            <div class="cover" style="background: linear-gradient(135deg, #2a4a6a, #3d6b8d);"></div>
+            <div class="nombre">DARKSWITCH</div>
+        </a>
+
+        <a href="https://t.me/c/3745106644/5" target="_blank" class="card" data-letra="D" data-nombre="dawn break">
+            <div class="cover" style="background: linear-gradient(135deg, #2a4a6a, #3d6b8d);"></div>
+            <div class="nombre">DAWN BREAK</div>
+        </a>
+            </div>
+        </div>
+
+        <div class="seccion-letra" data-letra="H">
+            <div class="titulo-seccion">LETRA H · 1 JUEGOS</div>
+            <div class="grid">
+                
+        <a href="https://t.me/c/3745106644/35" target="_blank" class="card" data-letra="H" data-nombre="humanitz">
+            <div class="cover" style="background: linear-gradient(135deg, #2a4a6a, #3d6b8d);"></div>
+            <div class="nombre">HUMANITZ</div>
+        </a>
+            </div>
+        </div>
+
+        <div class="seccion-letra" data-letra="K">
+            <div class="titulo-seccion">LETRA K · 1 JUEGOS</div>
+            <div class="grid">
+                
+        <a href="https://t.me/c/3745106644/24" target="_blank" class="card" data-letra="K" data-nombre="kristala">
+            <div class="cover" style="background: linear-gradient(135deg, #2a4a6a, #3d6b8d);"></div>
+            <div class="nombre">KRISTALA</div>
+        </a>
+            </div>
+        </div>
+
+        <div class="seccion-letra" data-letra="S">
+            <div class="titulo-seccion">LETRA S · 1 JUEGOS</div>
+            <div class="grid">
+                
+        <a href="https://t.me/c/3745106644/9" target="_blank" class="card" data-letra="S" data-nombre="sudden strike 5">
+            <div class="cover" style="background: linear-gradient(135deg, #2a4a6a, #3d6b8d);"></div>
+            <div class="nombre">SUDDEN STRIKE 5</div>
+        </a>
+            </div>
+        </div>
+
+        <div class="seccion-letra" data-letra="T">
+            <div class="titulo-seccion">LETRA T · 1 JUEGOS</div>
+            <div class="grid">
+                
+        <a href="https://t.me/c/3745106644/14" target="_blank" class="card" data-letra="T" data-nombre="the crew™ 2">
+            <div class="cover" style="background: linear-gradient(135deg, #2a4a6a, #3d6b8d);"></div>
+            <div class="nombre">THE CREW™ 2</div>
+        </a>
+            </div>
+        </div>
+</div>
+
+<div class="footer">
+    <span>SDCS · 6 juegos</span>
+    <span>Actualizado · 26/04/26 · 03:03</span>
+</div>
+
+<script>
+const buscador = document.getElementById('buscador');
+const cards = document.querySelectorAll('.card');
+const secciones = document.querySelectorAll('.seccion-letra');
+const botones = document.querySelectorAll('.btn-letra');
+let letraActiva = 'todos';
+
+function aplicarFiltros() {
+    const texto = buscador.value.toLowerCase().trim();
+    secciones.forEach(s => {
+        const letra = s.dataset.letra;
+        const cardsSeccion = s.querySelectorAll('.card');
+        let visibles = 0;
+        cardsSeccion.forEach(c => {
+            const nombre = c.dataset.nombre;
+            const coincideTexto = !texto || nombre.includes(texto);
+            const coincideLetra = (letraActiva === 'todos') || (c.dataset.letra === letraActiva) || (letra === 'DESTACADOS' && letraActiva === 'todos');
+            if (coincideTexto && coincideLetra) {
+                c.classList.remove('oculto');
+                visibles++;
+            } else {
+                c.classList.add('oculto');
+            }
+        });
+        if (visibles === 0) {
+            s.classList.add('oculto');
+        } else {
+            s.classList.remove('oculto');
+        }
+    });
+}
+
+buscador.addEventListener('input', aplicarFiltros);
+
+botones.forEach(b => {
+    b.addEventListener('click', () => {
+        botones.forEach(x => x.classList.remove('activo'));
+        b.classList.add('activo');
+        letraActiva = b.dataset.letra;
+        aplicarFiltros();
+    });
+});
+</script>
+
+</body>
+</html>
