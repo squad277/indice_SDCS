@@ -24,11 +24,16 @@ body {
 }
 .logo-wrap { display: flex; align-items: center; gap: 14px; }
 .logo {
-    width: 36px; height: 36px;
+    width: 48px; height: 48px;
+    border-radius: 6px;
+    overflow: hidden;
     background: #00d4aa;
-    border-radius: 4px;
-    display: flex; align-items: center; justify-content: center;
-    font-weight: 600; font-size: 14px; color: #0d1117;
+    flex-shrink: 0;
+}
+.logo img {
+    width: 100%; height: 100%;
+    object-fit: cover;
+    display: block;
 }
 .titulo-sub { font-size: 11px; color: #00d4aa; letter-spacing: 1.5px; text-transform: uppercase; }
 .titulo-main { font-size: 14px; color: white; font-weight: 500; }
@@ -36,7 +41,6 @@ body {
 .stat { text-align: right; }
 .stat-label { color: #6b7280; text-transform: uppercase; letter-spacing: 1px; }
 .stat-num { color: #00d4aa; font-weight: 600; font-size: 16px; }
-.stat-num.blanco { color: white; }
 .toolbar {
     padding: 14px 22px;
     display: flex; gap: 8px;
@@ -129,12 +133,7 @@ body {
     background: linear-gradient(135deg, #1a3a5c 0%, #2c5f8d 100%);
     text-shadow: 0 1px 4px rgba(0,0,0,0.6);
 }
-.card .cover.cover-fallback {
-    background-image: none !important;
-}
-.card .cover.cover-fallback .fb-text {
-    display: flex;
-}
+.card .cover[style=""] .fb-text { display: flex; }
 .badge-new {
     position: absolute;
     top: 6px; right: 6px;
@@ -176,7 +175,7 @@ body {
 
 <div class="header">
     <div class="logo-wrap">
-        <div class="logo">SQ</div>
+        <div class="logo"><img src="./logo.jpg" alt="SDCS"></div>
         <div>
             <div class="titulo-sub">SDCS</div>
             <div class="titulo-main">Squad_277</div>
@@ -210,7 +209,6 @@ body {
             
         <a href="https://t.me/c/3745106644/35" target="_blank" class="card" data-letra="H" data-nombre="humanitz">
             <div class="cover" style="background-image: url('https://cdn.cloudflare.steamstatic.com/steam/apps/1766060/header.jpg'); background-size: cover; background-position: center;">
-                <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1766060/header.jpg" style="display:none" onerror="this.parentElement.classList.add('cover-fallback')">
                 <div class="fb-text">HUMANITZ</div>
                 <div class="badge-new">NEW</div>
             </div>
@@ -219,7 +217,6 @@ body {
 
         <a href="https://t.me/c/3745106644/24" target="_blank" class="card" data-letra="K" data-nombre="kristala">
             <div class="cover" style="background-image: url('https://cdn.cloudflare.steamstatic.com/steam/apps/1206410/header.jpg'); background-size: cover; background-position: center;">
-                <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1206410/header.jpg" style="display:none" onerror="this.parentElement.classList.add('cover-fallback')">
                 <div class="fb-text">KRISTALA</div>
                 <div class="badge-new">NEW</div>
             </div>
@@ -228,7 +225,6 @@ body {
 
         <a href="https://t.me/c/3745106644/14" target="_blank" class="card" data-letra="T" data-nombre="the crew™ 2">
             <div class="cover" style="background-image: url('https://cdn.cloudflare.steamstatic.com/steam/apps/646910/header.jpg'); background-size: cover; background-position: center;">
-                <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/646910/header.jpg" style="display:none" onerror="this.parentElement.classList.add('cover-fallback')">
                 <div class="fb-text">THE CREW™ 2</div>
                 <div class="badge-new">NEW</div>
             </div>
@@ -236,8 +232,7 @@ body {
         </a>
 
         <a href="https://t.me/c/3745106644/9" target="_blank" class="card" data-letra="S" data-nombre="sudden strike 5">
-            <div class="cover" style="background-image: url('https://cdn.cloudflare.steamstatic.com/steam/apps/2808550/header.jpg'); background-size: cover; background-position: center;">
-                <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/2808550/header.jpg" style="display:none" onerror="this.parentElement.classList.add('cover-fallback')">
+            <div class="cover" style="background-image: url('./imagenes/9.jpg'); background-size: cover; background-position: center;">
                 <div class="fb-text">SUDDEN STRIKE 5</div>
                 <div class="badge-new">NEW</div>
             </div>
@@ -252,7 +247,6 @@ body {
                 
         <a href="https://t.me/c/3745106644/2" target="_blank" class="card" data-letra="D" data-nombre="darkswitch">
             <div class="cover" style="background-image: url('https://cdn.cloudflare.steamstatic.com/steam/apps/3132870/header.jpg'); background-size: cover; background-position: center;">
-                <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/3132870/header.jpg" style="display:none" onerror="this.parentElement.classList.add('cover-fallback')">
                 <div class="fb-text">DARKSWITCH</div>
                 
             </div>
@@ -261,7 +255,6 @@ body {
 
         <a href="https://t.me/c/3745106644/5" target="_blank" class="card" data-letra="D" data-nombre="dawn break">
             <div class="cover" style="background-image: url('https://cdn.cloudflare.steamstatic.com/steam/apps/3470610/header.jpg'); background-size: cover; background-position: center;">
-                <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/3470610/header.jpg" style="display:none" onerror="this.parentElement.classList.add('cover-fallback')">
                 <div class="fb-text">DAWN BREAK</div>
                 
             </div>
@@ -276,7 +269,6 @@ body {
                 
         <a href="https://t.me/c/3745106644/35" target="_blank" class="card" data-letra="H" data-nombre="humanitz">
             <div class="cover" style="background-image: url('https://cdn.cloudflare.steamstatic.com/steam/apps/1766060/header.jpg'); background-size: cover; background-position: center;">
-                <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1766060/header.jpg" style="display:none" onerror="this.parentElement.classList.add('cover-fallback')">
                 <div class="fb-text">HUMANITZ</div>
                 
             </div>
@@ -291,7 +283,6 @@ body {
                 
         <a href="https://t.me/c/3745106644/24" target="_blank" class="card" data-letra="K" data-nombre="kristala">
             <div class="cover" style="background-image: url('https://cdn.cloudflare.steamstatic.com/steam/apps/1206410/header.jpg'); background-size: cover; background-position: center;">
-                <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1206410/header.jpg" style="display:none" onerror="this.parentElement.classList.add('cover-fallback')">
                 <div class="fb-text">KRISTALA</div>
                 
             </div>
@@ -305,8 +296,7 @@ body {
             <div class="grid">
                 
         <a href="https://t.me/c/3745106644/9" target="_blank" class="card" data-letra="S" data-nombre="sudden strike 5">
-            <div class="cover" style="background-image: url('https://cdn.cloudflare.steamstatic.com/steam/apps/2808550/header.jpg'); background-size: cover; background-position: center;">
-                <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/2808550/header.jpg" style="display:none" onerror="this.parentElement.classList.add('cover-fallback')">
+            <div class="cover" style="background-image: url('./imagenes/9.jpg'); background-size: cover; background-position: center;">
                 <div class="fb-text">SUDDEN STRIKE 5</div>
                 
             </div>
@@ -321,7 +311,6 @@ body {
                 
         <a href="https://t.me/c/3745106644/14" target="_blank" class="card" data-letra="T" data-nombre="the crew™ 2">
             <div class="cover" style="background-image: url('https://cdn.cloudflare.steamstatic.com/steam/apps/646910/header.jpg'); background-size: cover; background-position: center;">
-                <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/646910/header.jpg" style="display:none" onerror="this.parentElement.classList.add('cover-fallback')">
                 <div class="fb-text">THE CREW™ 2</div>
                 
             </div>
@@ -333,15 +322,30 @@ body {
 
 <div class="footer">
     <span>SDCS · 6 juegos</span>
-    <span>Actualizado · 26/04/26 · 03:11</span>
+    <span>Actualizado · 26/04/26 · 03:20</span>
 </div>
 
 <script>
 const buscador = document.getElementById('buscador');
-const cards = document.querySelectorAll('.card');
 const secciones = document.querySelectorAll('.seccion-letra');
 const botones = document.querySelectorAll('.btn-letra');
 let letraActiva = 'todos';
+
+// Detectar imagenes que fallan al cargar
+document.querySelectorAll('.card .cover').forEach(c => {
+    const bg = c.style.backgroundImage;
+    if (!bg || bg === 'none' || bg === '') {
+        c.querySelector('.fb-text').style.display = 'flex';
+        return;
+    }
+    const url = bg.replace(/^url\(["']?/, '').replace(/["']?\)$/, '');
+    const img = new Image();
+    img.onerror = () => {
+        c.style.backgroundImage = 'none';
+        c.querySelector('.fb-text').style.display = 'flex';
+    };
+    img.src = url;
+});
 
 function aplicarFiltros() {
     const texto = buscador.value.toLowerCase().trim();
