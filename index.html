@@ -88,8 +88,9 @@ body {
 .seccion-letra { margin-bottom: 24px; }
 .grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(180px, 220px));
     gap: 10px;
+    justify-content: start;
 }
 .card {
     border-radius: 6px;
@@ -145,7 +146,7 @@ body {
 }
 .oculto { display: none !important; }
 @media (max-width: 600px) {
-    .grid { grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); }
+    .grid { grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); }
     .stats { font-size: 10px; }
 }
 </style>
@@ -271,7 +272,7 @@ body {
 
 <div class="footer">
     <span>SDCS · 6 juegos</span>
-    <span>Actualizado · 26/04/26 · 03:06</span>
+    <span>Actualizado · 26/04/26 · 03:08</span>
 </div>
 
 <script>
