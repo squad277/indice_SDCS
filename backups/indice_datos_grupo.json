@@ -550,15 +550,6 @@
       "fecha": "2026-03-08T10:49:52+00:00"
     },
     {
-      "id": 36733,
-      "nombre": "SUPER BATTLE GOLF",
-      "url": "https://t.me/c/1634508656/36733",
-      "url_steam": "https://store.steampowered.com/app/4069520/Super_Battle_Golf/",
-      "app_id": "4069520",
-      "imagen_local": true,
-      "fecha": "2026-03-08T10:49:52+00:00"
-    },
-    {
       "id": 36731,
       "nombre": "SCOTT PILGRIM EX",
       "url": "https://t.me/c/1634508656/36731",
@@ -2053,15 +2044,6 @@
       "fecha": "2025-12-06T07:39:54+00:00"
     },
     {
-      "id": 35631,
-      "nombre": "MARVEL COSMIC INVASION",
-      "url": "https://t.me/c/1634508656/35631",
-      "url_steam": "https://store.steampowered.com/app/2753970/MARVEL_Cosmic_Invasion/",
-      "app_id": "2753970",
-      "imagen_local": true,
-      "fecha": "2025-12-06T07:39:54+00:00"
-    },
-    {
       "id": 35629,
       "nombre": "SPEED DEMONS 2",
       "url": "https://t.me/c/1634508656/35629",
@@ -2512,15 +2494,6 @@
       "fecha": "2025-11-02T09:31:11+00:00"
     },
     {
-      "id": 35170,
-      "nombre": "THE OUTER WORLDS 2",
-      "url": "https://t.me/c/1634508656/35170",
-      "url_steam": "https://store.steampowered.com/app/1449110/The_Outer_Worlds_2/?l=spanish",
-      "app_id": "1449110",
-      "imagen_local": false,
-      "fecha": "2025-11-02T09:31:09+00:00"
-    },
-    {
       "id": 35164,
       "nombre": "THE LONESOME GUILD",
       "url": "https://t.me/c/1634508656/35164",
@@ -2827,15 +2800,6 @@
       "fecha": "2025-10-12T08:09:13+00:00"
     },
     {
-      "id": 34930,
-      "nombre": "YOOKA RE-PLAYLEE**",
-      "url": "https://t.me/c/1634508656/34930",
-      "url_steam": "https://store.steampowered.com/app/2448020/YookaReplaylee/",
-      "app_id": "2448020",
-      "imagen_local": false,
-      "fecha": "2025-10-12T08:09:13+00:00"
-    },
-    {
       "id": 34927,
       "nombre": "ABSOLUM",
       "url": "https://t.me/c/1634508656/34927",
@@ -2924,15 +2888,6 @@
       "app_id": "2324290",
       "imagen_local": false,
       "fecha": "2025-09-27T09:37:27+00:00"
-    },
-    {
-      "id": 34849,
-      "nombre": "WARTALES - CONTRATO: EL FEUDO",
-      "url": "https://t.me/c/1634508656/34849",
-      "url_steam": "https://store.steampowered.com/app/3899740/Wartales__Contrato_El_Feudo/",
-      "app_id": "3899740",
-      "imagen_local": true,
-      "fecha": "2025-09-27T09:37:25+00:00"
     },
     {
       "id": 34844,
@@ -4420,15 +4375,6 @@
       "fecha": "2025-07-12T17:36:08+00:00"
     },
     {
-      "id": 33952,
-      "nombre": "TONY HAWK’S ™ PRO SKATER ™ 3 + 4",
-      "url": "https://t.me/c/1634508656/33952",
-      "url_steam": "https://store.steampowered.com/app/2545710/Tony_Hawks_Pro_Skater_3__4/",
-      "app_id": "2545710",
-      "imagen_local": false,
-      "fecha": "2025-07-12T17:36:04+00:00"
-    },
-    {
       "id": 33950,
       "nombre": "PATAPON 1+2 REPLAY",
       "url": "https://t.me/c/1634508656/33950",
@@ -5905,15 +5851,6 @@
       "fecha": "2025-04-26T08:51:08+00:00"
     },
     {
-      "id": 32857,
-      "nombre": "MANDRAGORA: WHISPERS OF THE WITCH TREE",
-      "url": "https://t.me/c/1634508656/32857",
-      "url_steam": "https://store.steampowered.com/app/1721060/Mandragora_Whispers_of_the_Witch_Tree/",
-      "app_id": "1721060",
-      "imagen_local": false,
-      "fecha": "2025-04-26T08:49:57+00:00"
-    },
-    {
       "id": 32844,
       "nombre": "ECHOES OF YI: SAMSARA",
       "url": "https://t.me/c/1634508656/32844",
@@ -6164,15 +6101,6 @@
       "app_id": "1063030",
       "imagen_local": false,
       "fecha": "2025-04-12T09:44:10+00:00"
-    },
-    {
-      "id": 32639,
-      "nombre": "WILDKEEPERS RISING",
-      "url": "https://t.me/c/1634508656/32639",
-      "url_steam": "https://store.steampowered.com/app/2995560/Wildkeepers_Rising/",
-      "app_id": "2995560",
-      "imagen_local": false,
-      "fecha": "2025-04-12T09:44:09+00:00"
     },
     {
       "id": 32637,
@@ -7208,15 +7136,6 @@
       "app_id": "2668430",
       "imagen_local": false,
       "fecha": "2025-02-22T12:00:29+00:00"
-    },
-    {
-      "id": 31938,
-      "nombre": "TOMB RAIDER IV-V-VI REMASTERED",
-      "url": "https://t.me/c/1634508656/31938",
-      "url_steam": "https://store.steampowered.com/app/2525380/Tomb_Raider_IVVI_Remastered/",
-      "app_id": "2525380",
-      "imagen_local": false,
-      "fecha": "2025-02-15T11:40:09+00:00"
     },
     {
       "id": 31934,
@@ -8533,15 +8452,6 @@
       "fecha": "2024-12-21T08:56:37+00:00"
     },
     {
-      "id": 31050,
-      "nombre": "SONGS OF CONQUEST VANIR",
-      "url": "https://t.me/c/1634508656/31050",
-      "url_steam": "https://store.steampowered.com/app/867210/Songs_of_Conquest/",
-      "app_id": "867210",
-      "imagen_local": false,
-      "fecha": "2024-12-21T08:56:19+00:00"
-    },
-    {
       "id": 31048,
       "nombre": "NORTHGARD",
       "url": "https://t.me/c/1634508656/31048",
@@ -9523,15 +9433,6 @@
       "fecha": "2024-11-09T11:59:56+00:00"
     },
     {
-      "id": 30512,
-      "nombre": "LOST EIDOLONS: VEIL OF THE WITCH - EARLY ACCESS",
-      "url": "https://t.me/c/1634508656/30512",
-      "url_steam": "https://store.steampowered.com/app/2530490/Lost_Eidolons_Veil_of_the_Witch/",
-      "app_id": "2530490",
-      "imagen_local": false,
-      "fecha": "2024-11-09T11:59:56+00:00"
-    },
-    {
       "id": 30509,
       "nombre": "FRUITBUS",
       "url": "https://t.me/c/1634508656/30509",
@@ -9683,15 +9584,6 @@
       "app_id": "2561580",
       "imagen_local": false,
       "fecha": "2024-11-02T11:14:36+00:00"
-    },
-    {
-      "id": 30387,
-      "nombre": "BLASPHEMOUS 2**",
-      "url": "https://t.me/c/1634508656/30387",
-      "url_steam": "https://store.steampowered.com/app/2879370/Blasphemous_2__Mea_Culpa/",
-      "app_id": "2879370",
-      "imagen_local": false,
-      "fecha": "2024-11-02T11:13:12+00:00"
     },
     {
       "id": 30385,
@@ -9917,15 +9809,6 @@
       "app_id": "2468400",
       "imagen_local": false,
       "fecha": "2024-10-26T08:33:28+00:00"
-    },
-    {
-      "id": 30072,
-      "nombre": "SILENT HILL 2 REMAKE",
-      "url": "https://t.me/c/1634508656/30072",
-      "url_steam": "https://store.steampowered.com/app/2124490/SILENT_HILL_2/",
-      "app_id": "2124490",
-      "imagen_local": false,
-      "fecha": "2024-10-26T08:33:27+00:00"
     },
     {
       "id": 30049,
@@ -10360,15 +10243,6 @@
       "fecha": "2024-10-06T17:22:29+00:00"
     },
     {
-      "id": 29730,
-      "nombre": "SILENT HILL 2 REMAKE",
-      "url": "https://t.me/c/1634508656/29730",
-      "url_steam": "https://store.steampowered.com/app/2124490/SILENT_HILL_2/",
-      "app_id": "2124490",
-      "imagen_local": false,
-      "fecha": "2024-10-06T17:22:15+00:00"
-    },
-    {
       "id": 29697,
       "nombre": "BOB ESPONJA EL JUEGO DE PATRICIO ESTRELLA",
       "url": "https://t.me/c/1634508656/29697",
@@ -10486,15 +10360,6 @@
       "fecha": "2024-10-06T17:21:24+00:00"
     },
     {
-      "id": 29620,
-      "nombre": "SP FOOTBALL LIFE 2024/25**",
-      "url": "https://t.me/c/1634508656/29620",
-      "url_steam": null,
-      "app_id": null,
-      "imagen_local": true,
-      "fecha": "2024-10-02T15:33:41+00:00"
-    },
-    {
       "id": 29618,
       "nombre": "AN EVERYDAY STORY",
       "url": "https://t.me/c/1634508656/29618",
@@ -10545,15 +10410,6 @@
       "url": "https://t.me/c/1634508656/29573",
       "url_steam": "https://store.steampowered.com/app/2795750/Night_Slashers_Remake/",
       "app_id": "2795750",
-      "imagen_local": false,
-      "fecha": "2024-09-28T15:39:28+00:00"
-    },
-    {
-      "id": 29570,
-      "nombre": "RAVENSWATCH",
-      "url": "https://t.me/c/1634508656/29570",
-      "url_steam": "https://store.steampowered.com/app/2071280/Ravenswatch/",
-      "app_id": "2071280",
       "imagen_local": false,
       "fecha": "2024-09-28T15:39:28+00:00"
     },
@@ -10664,15 +10520,6 @@
       "app_id": "1997660",
       "imagen_local": false,
       "fecha": "2024-09-28T15:38:20+00:00"
-    },
-    {
-      "id": 29458,
-      "nombre": "63 DAYS",
-      "url": "https://t.me/c/1634508656/29458",
-      "url_steam": "https://store.steampowered.com/app/2202120/63_Days/",
-      "app_id": "2202120",
-      "imagen_local": false,
-      "fecha": "2024-09-28T15:38:05+00:00"
     },
     {
       "id": 29456,
@@ -11251,15 +11098,6 @@
       "fecha": "2024-09-14T09:01:07+00:00"
     },
     {
-      "id": 28831,
-      "nombre": "WARHAMMER** **40,000: SPACE MARINE 2**",
-      "url": "https://t.me/c/1634508656/28831",
-      "url_steam": "https://store.steampowered.com/app/2183900/Warhammer_40000_Space_Marine_2/",
-      "app_id": "2183900",
-      "imagen_local": false,
-      "fecha": "2024-09-14T09:01:06+00:00"
-    },
-    {
       "id": 28826,
       "nombre": "FABLE ANNIVERSARY**",
       "url": "https://t.me/c/1634508656/28826",
@@ -11276,15 +11114,6 @@
       "app_id": null,
       "imagen_local": true,
       "fecha": "2024-09-14T08:59:36+00:00"
-    },
-    {
-      "id": 28793,
-      "nombre": "THE CASTING OF FRANK STONE™**",
-      "url": "https://t.me/c/1634508656/28793",
-      "url_steam": null,
-      "app_id": null,
-      "imagen_local": true,
-      "fecha": "2024-09-14T08:59:35+00:00"
     },
     {
       "id": 28789,
@@ -11530,15 +11359,6 @@
       "fecha": "2024-09-14T08:57:33+00:00"
     },
     {
-      "id": 28665,
-      "nombre": "3 MINUTES TO MIDNIGHT",
-      "url": "https://t.me/c/1634508656/28665",
-      "url_steam": "https://store.steampowered.com/app/832500/3_Minutes_to_Midnight__A_Comedy_Graphic_Adventure/?l=spanish",
-      "app_id": "832500",
-      "imagen_local": false,
-      "fecha": "2024-09-14T08:57:33+00:00"
-    },
-    {
       "id": 28663,
       "nombre": "MIKA AND THE WITCH'S MOUNTAIN",
       "url": "https://t.me/c/1634508656/28663",
@@ -11689,15 +11509,6 @@
       "url_steam": "https://store.steampowered.com/app/1672500/GUNDAM_BREAKER_4/",
       "app_id": "1672500",
       "imagen_local": false,
-      "fecha": "2024-09-14T08:56:18+00:00"
-    },
-    {
-      "id": 28581,
-      "nombre": "WARTALES - THE PITS**",
-      "url": "https://t.me/c/1634508656/28581",
-      "url_steam": null,
-      "app_id": null,
-      "imagen_local": true,
       "fecha": "2024-09-14T08:56:18+00:00"
     },
     {
@@ -12547,15 +12358,6 @@
       "fecha": "2024-06-30T15:23:58+00:00"
     },
     {
-      "id": 27942,
-      "nombre": "GHOST OF TSUSHIMA DIRECTOR'S CUT",
-      "url": "https://t.me/c/1634508656/27942",
-      "url_steam": "https://store.steampowered.com/app/2215430/Ghost_of_Tsushima_VERSIN_DEL_DIRECTOR/",
-      "app_id": "2215430",
-      "imagen_local": false,
-      "fecha": "2024-06-30T07:44:57+00:00"
-    },
-    {
       "id": 27932,
       "nombre": "RATCHET CLANK RIFT APART",
       "url": "https://t.me/c/1634508656/27932",
@@ -12997,15 +12799,6 @@
       "fecha": "2024-06-15T10:30:32+00:00"
     },
     {
-      "id": 27621,
-      "nombre": "PATHFINDER: WRATH OF THE RIGHTEOUS- ENHANCED EDITION**",
-      "url": "https://t.me/c/1634508656/27621",
-      "url_steam": null,
-      "app_id": null,
-      "imagen_local": true,
-      "fecha": "2024-06-15T10:30:12+00:00"
-    },
-    {
       "id": 27619,
       "nombre": "VOLLEY PALS**",
       "url": "https://t.me/c/1634508656/27619",
@@ -13139,15 +12932,6 @@
       "app_id": "1971650",
       "imagen_local": false,
       "fecha": "2024-06-15T10:28:22+00:00"
-    },
-    {
-      "id": 27420,
-      "nombre": "PINBALL FX (incluye 125 mesas)**",
-      "url": "https://t.me/c/1634508656/27420",
-      "url_steam": "https://store.steampowered.com/app/2328760/Pinball_FX/",
-      "app_id": "2328760",
-      "imagen_local": false,
-      "fecha": "2024-06-15T10:27:41+00:00"
     },
     {
       "id": 27418,
@@ -13861,15 +13645,6 @@
       "fecha": "2024-05-25T08:24:21+00:00"
     },
     {
-      "id": 26703,
-      "nombre": "TEKKEN** **8**",
-      "url": "https://t.me/c/1634508656/26703",
-      "url_steam": null,
-      "app_id": null,
-      "imagen_local": true,
-      "fecha": "2024-05-25T08:24:01+00:00"
-    },
-    {
       "id": 26701,
       "nombre": "ACROSS** **THE OBELISK**",
       "url": "https://t.me/c/1634508656/26701",
@@ -14210,15 +13985,6 @@
       "app_id": "321960",
       "imagen_local": false,
       "fecha": "2024-05-11T09:28:48+00:00"
-    },
-    {
-      "id": 26472,
-      "nombre": "V RISING  - LEGACY OF CASTLEVANIA",
-      "url": "https://t.me/c/1634508656/26472",
-      "url_steam": "https://store.steampowered.com/app/1604030/V_Rising/",
-      "app_id": "1604030",
-      "imagen_local": false,
-      "fecha": "2024-05-11T09:28:32+00:00"
     },
     {
       "id": 26470,
@@ -14660,15 +14426,6 @@
       "app_id": "2447030",
       "imagen_local": false,
       "fecha": "2024-04-28T10:12:55+00:00"
-    },
-    {
-      "id": 26143,
-      "nombre": "WARTALES THE TAVERNS OPENS!",
-      "url": "https://t.me/c/1634508656/26143",
-      "url_steam": "https://store.steampowered.com/app/2903960/Wartales__The_Tavern_Opens/?l=spanish",
-      "app_id": "2903960",
-      "imagen_local": false,
-      "fecha": "2024-04-28T10:12:54+00:00"
     },
     {
       "id": 26140,
@@ -15211,24 +14968,6 @@
       "fecha": "2024-04-06T07:45:42+00:00"
     },
     {
-      "id": 25683,
-      "nombre": "SOUTH PARK: SNOW DAY!",
-      "url": "https://t.me/c/1634508656/25683",
-      "url_steam": "https://store.steampowered.com/app/1214650/SOUTH_PARK_SNOW_DAY/",
-      "app_id": "1214650",
-      "imagen_local": false,
-      "fecha": "2024-04-06T07:45:27+00:00"
-    },
-    {
-      "id": 25634,
-      "nombre": "THE CALLISTO PROTOCOL™",
-      "url": "https://t.me/c/1634508656/25634",
-      "url_steam": "https://store.steampowered.com/app/1544020/The_Callisto_Protocol/",
-      "app_id": "1544020",
-      "imagen_local": false,
-      "fecha": "2024-04-06T07:45:07+00:00"
-    },
-    {
       "id": 25632,
       "nombre": "CD II: TRAP MASTER",
       "url": "https://t.me/c/1634508656/25632",
@@ -15558,15 +15297,6 @@
       "url": "https://t.me/c/1634508656/25406",
       "url_steam": "https://store.steampowered.com/app/1332950/KinnikuNeko_SUPER_MUSCLE_CAT/?l=latam",
       "app_id": "1332950",
-      "imagen_local": false,
-      "fecha": "2024-03-23T09:08:29+00:00"
-    },
-    {
-      "id": 25403,
-      "nombre": "LIGHTYEAR FRONTIER",
-      "url": "https://t.me/c/1634508656/25403",
-      "url_steam": "https://store.steampowered.com/app/1677110/Lightyear_Frontier/",
-      "app_id": "1677110",
       "imagen_local": false,
       "fecha": "2024-03-23T09:08:29+00:00"
     },
@@ -16507,15 +16237,6 @@
       "fecha": "2024-02-24T10:40:46+00:00"
     },
     {
-      "id": 24624,
-      "nombre": "SONS OF FOREST",
-      "url": "https://t.me/c/1634508656/24624",
-      "url_steam": null,
-      "app_id": null,
-      "imagen_local": true,
-      "fecha": "2024-02-24T10:40:45+00:00"
-    },
-    {
       "id": 24620,
       "nombre": "GARDEN LIFE A COZY SIMULATOR",
       "url": "https://t.me/c/1634508656/24620",
@@ -16703,15 +16424,6 @@
       "app_id": null,
       "imagen_local": true,
       "fecha": "2024-02-24T10:38:38+00:00"
-    },
-    {
-      "id": 24478,
-      "nombre": "LORDS OF THE FALLEN",
-      "url": "https://t.me/c/1634508656/24478",
-      "url_steam": null,
-      "app_id": null,
-      "imagen_local": true,
-      "fecha": "2024-02-24T10:38:19+00:00"
     },
     {
       "id": 24465,
@@ -16975,15 +16687,6 @@
       "fecha": "2024-02-17T11:49:13+00:00"
     },
     {
-      "id": 24251,
-      "nombre": "LIES OF P",
-      "url": "https://t.me/c/1634508656/24251",
-      "url_steam": null,
-      "app_id": null,
-      "imagen_local": true,
-      "fecha": "2024-02-17T11:49:12+00:00"
-    },
-    {
       "id": 24195,
       "nombre": "SP FOOTBALL LIFE 2024**",
       "url": "https://t.me/c/1634508656/24195",
@@ -17245,24 +16948,6 @@
       "fecha": "2024-02-10T11:25:01+00:00"
     },
     {
-      "id": 23990,
-      "nombre": "PARK BEYOND",
-      "url": "https://t.me/c/1634508656/23990",
-      "url_steam": null,
-      "app_id": null,
-      "imagen_local": true,
-      "fecha": "2024-02-10T11:25:00+00:00"
-    },
-    {
-      "id": 23908,
-      "nombre": "TEKKEN 8",
-      "url": "https://t.me/c/1634508656/23908",
-      "url_steam": null,
-      "app_id": null,
-      "imagen_local": true,
-      "fecha": "2024-02-10T11:24:26+00:00"
-    },
-    {
       "id": 23906,
       "nombre": "SPEED CREW",
       "url": "https://t.me/c/1634508656/23906",
@@ -17515,15 +17200,6 @@
       "fecha": "2024-02-04T09:09:10+00:00"
     },
     {
-      "id": 23689,
-      "nombre": "WARGROOVE 2",
-      "url": "https://t.me/c/1634508656/23689",
-      "url_steam": null,
-      "app_id": null,
-      "imagen_local": true,
-      "fecha": "2024-02-04T09:09:09+00:00"
-    },
-    {
       "id": 23687,
       "nombre": "KRAINO ORIGINS",
       "url": "https://t.me/c/1634508656/23687",
@@ -17668,15 +17344,6 @@
       "fecha": "2024-01-27T10:14:31+00:00"
     },
     {
-      "id": 23558,
-      "nombre": "TEKKEN 8 - ULTIMATE EDITION",
-      "url": "https://t.me/c/1634508656/23558",
-      "url_steam": "https://store.steampowered.com/app/1778820/TEKKEN_8/",
-      "app_id": "1778820",
-      "imagen_local": false,
-      "fecha": "2024-01-27T10:14:09+00:00"
-    },
-    {
       "id": 23550,
       "nombre": "ENSHROUDED",
       "url": "https://t.me/c/1634508656/23550",
@@ -17812,15 +17479,6 @@
       "fecha": "2024-01-27T10:07:49+00:00"
     },
     {
-      "id": 23464,
-      "nombre": "SEA OF STAR",
-      "url": "https://t.me/c/1634508656/23464",
-      "url_steam": null,
-      "app_id": null,
-      "imagen_local": true,
-      "fecha": "2024-01-27T10:07:49+00:00"
-    },
-    {
       "id": 23400,
       "nombre": "TEKKEN 7 DENIFITIVE EDITION",
       "url": "https://t.me/c/1634508656/23400",
@@ -17893,15 +17551,6 @@
       "fecha": "2024-01-20T16:54:08+00:00"
     },
     {
-      "id": 23366,
-      "nombre": "THREE KINGDOM:ZHAO YUN",
-      "url": "https://t.me/c/1634508656/23366",
-      "url_steam": null,
-      "app_id": null,
-      "imagen_local": true,
-      "fecha": "2024-01-20T16:54:07+00:00"
-    },
-    {
       "id": 23356,
       "nombre": "PALWORLD",
       "url": "https://t.me/c/1634508656/23356",
@@ -17927,15 +17576,6 @@
       "app_id": null,
       "imagen_local": true,
       "fecha": "2024-01-20T16:54:00+00:00"
-    },
-    {
-      "id": 23329,
-      "nombre": "AGE OF WONDER 4",
-      "url": "https://t.me/c/1634508656/23329",
-      "url_steam": "https://store.steampowered.com/bundle/33129/Age_of_Wonders_4_Expansion_Pass/",
-      "app_id": null,
-      "imagen_local": true,
-      "fecha": "2024-01-20T16:53:59+00:00"
     },
     {
       "id": 23308,
@@ -18159,15 +17799,6 @@
       "url": "https://t.me/c/1634508656/23144",
       "url_steam": "https://store.steampowered.com/app/2765310/The_Sinking_City__Merciful_Madness/",
       "app_id": "2765310",
-      "imagen_local": false,
-      "fecha": "2024-01-20T16:51:42+00:00"
-    },
-    {
-      "id": 23142,
-      "nombre": "TIME SURVIVORS",
-      "url": "https://t.me/c/1634508656/23142",
-      "url_steam": "https://store.steampowered.com/app/2211390/Time_Survivors/",
-      "app_id": "2211390",
       "imagen_local": false,
       "fecha": "2024-01-20T16:51:42+00:00"
     },
@@ -18820,15 +18451,6 @@
       "fecha": "2024-01-02T22:06:28+00:00"
     },
     {
-      "id": 22763,
-      "nombre": "ULTIMATE ZOMBIE DEFENSE",
-      "url": "https://t.me/c/1634508656/22763",
-      "url_steam": "https://store.steampowered.com/app/1035510/Ultimate_Zombie_Defense/",
-      "app_id": "1035510",
-      "imagen_local": false,
-      "fecha": "2024-01-02T22:06:28+00:00"
-    },
-    {
       "id": 22752,
       "nombre": "RIVERCITY - RIVAL SHOWDOWN",
       "url": "https://t.me/c/1634508656/22752",
@@ -18989,15 +18611,6 @@
       "app_id": "1942010",
       "imagen_local": false,
       "fecha": "2024-01-02T22:03:59+00:00"
-    },
-    {
-      "id": 22618,
-      "nombre": "SOULSLINGER: ENVOY OF DEATH**",
-      "url": "https://t.me/c/1634508656/22618",
-      "url_steam": "https://store.steampowered.com/app/2429240/Soulslinger_Envoy_of_Death/",
-      "app_id": "2429240",
-      "imagen_local": false,
-      "fecha": "2024-01-02T22:03:58+00:00"
     },
     {
       "id": 22573,
@@ -19342,15 +18955,6 @@
       "fecha": "2024-01-02T21:56:51+00:00"
     },
     {
-      "id": 22423,
-      "nombre": "THE DARK EYE: CHAINS OF SATINAV",
-      "url": "https://t.me/c/1634508656/22423",
-      "url_steam": "https://store.steampowered.com/app/203830/The_Dark_Eye_Chains_of_Satinav/",
-      "app_id": "203830",
-      "imagen_local": false,
-      "fecha": "2024-01-02T21:56:51+00:00"
-    },
-    {
       "id": 22414,
       "nombre": "LORD OF THE RINGS - RETURN TO MORIA",
       "url": "https://t.me/c/1634508656/22414",
@@ -19450,15 +19054,6 @@
       "fecha": "2024-01-02T21:54:51+00:00"
     },
     {
-      "id": 22341,
-      "nombre": "WARHAMMER 40000 - ROGUE TRADER",
-      "url": "https://t.me/c/1634508656/22341",
-      "url_steam": "https://store.steampowered.com/app/2186680/Warhammer_40000_Rogue_Trader/",
-      "app_id": "2186680",
-      "imagen_local": false,
-      "fecha": "2024-01-02T21:54:41+00:00"
-    },
-    {
       "id": 22288,
       "nombre": "SHADOW GAMBIT: THE CURSED CREW COMPLETE EDITION",
       "url": "https://t.me/c/1634508656/22288",
@@ -19556,24 +19151,6 @@
       "app_id": null,
       "imagen_local": true,
       "fecha": "2024-01-02T21:51:49+00:00"
-    },
-    {
-      "id": 22175,
-      "nombre": "WORLD WAR Z",
-      "url": "https://t.me/c/1634508656/22175",
-      "url_steam": "https://store.steampowered.com/app/699130/World_War_Z/",
-      "app_id": "699130",
-      "imagen_local": false,
-      "fecha": "2024-01-02T21:51:30+00:00"
-    },
-    {
-      "id": 22173,
-      "nombre": "STRIVING FOR LIGHT**",
-      "url": "https://t.me/c/1634508656/22173",
-      "url_steam": "https://store.steampowered.com/app/1646790/Striving_for_Light/",
-      "app_id": "1646790",
-      "imagen_local": false,
-      "fecha": "2024-01-02T21:51:19+00:00"
     },
     {
       "id": 22101,
@@ -19954,15 +19531,6 @@
       "fecha": "2023-11-25T12:55:42+00:00"
     },
     {
-      "id": 21863,
-      "nombre": "SP FOOTBALL LIFE 2024**",
-      "url": "https://t.me/c/1634508656/21863",
-      "url_steam": null,
-      "app_id": null,
-      "imagen_local": true,
-      "fecha": "2023-11-25T12:55:09+00:00"
-    },
-    {
       "id": 21857,
       "nombre": "BLOODROOTS",
       "url": "https://t.me/c/1634508656/21857",
@@ -20123,15 +19691,6 @@
       "app_id": "1135230",
       "imagen_local": false,
       "fecha": "2023-11-25T12:50:17+00:00"
-    },
-    {
-      "id": 21778,
-      "nombre": "Pathfinder Wrath of the Righteous Enhanced Edition The Lord of Nothing**",
-      "url": "https://t.me/c/1634508656/21778",
-      "url_steam": "https://store.steampowered.com/app/1184370/Pathfinder_Wrath_of_the_Righteous__Enhanced_Edition/",
-      "app_id": "1184370",
-      "imagen_local": false,
-      "fecha": "2023-11-25T12:49:52+00:00"
     },
     {
       "id": 21776,
@@ -20530,24 +20089,6 @@
       "fecha": "2023-11-12T18:28:40+00:00"
     },
     {
-      "id": 21284,
-      "nombre": "SUPER MARIO BROS WONDER",
-      "url": "https://t.me/c/1634508656/21284",
-      "url_steam": null,
-      "app_id": null,
-      "imagen_local": true,
-      "fecha": "2023-11-12T18:28:40+00:00"
-    },
-    {
-      "id": 21282,
-      "nombre": "SUPER WODEN GP 2**",
-      "url": "https://t.me/c/1634508656/21282",
-      "url_steam": "https://store.steampowered.com/app/2083210/Super_Woden_GP_2/",
-      "app_id": "2083210",
-      "imagen_local": false,
-      "fecha": "2023-11-12T18:03:32+00:00"
-    },
-    {
       "id": 21280,
       "nombre": "SUPER WODEN GP**",
       "url": "https://t.me/c/1634508656/21280",
@@ -20782,15 +20323,6 @@
       "fecha": "2023-11-12T18:01:07+00:00"
     },
     {
-      "id": 21168,
-      "nombre": "GIGABASH",
-      "url": "https://t.me/c/1634508656/21168",
-      "url_steam": "https://store.steampowered.com/app/2574860/GigaBash__Ultraman_4_Characters_Pack/",
-      "app_id": "2574860",
-      "imagen_local": false,
-      "fecha": "2023-11-12T18:01:06+00:00"
-    },
-    {
       "id": 21162,
       "nombre": "ASHEN",
       "url": "https://t.me/c/1634508656/21162",
@@ -20881,15 +20413,6 @@
       "fecha": "2023-11-04T22:22:05+00:00"
     },
     {
-      "id": 21067,
-      "nombre": "LORDS OF THE FALLEN DELUXE EDITION",
-      "url": "https://t.me/c/1634508656/21067",
-      "url_steam": "https://store.steampowered.com/app/1501750/Lords_of_the_Fallen/",
-      "app_id": "1501750",
-      "imagen_local": false,
-      "fecha": "2023-11-04T22:21:54+00:00"
-    },
-    {
       "id": 21056,
       "nombre": "ACHILLES LEGENDS UNTOLD",
       "url": "https://t.me/c/1634508656/21056",
@@ -20960,24 +20483,6 @@
       "app_id": "2351120",
       "imagen_local": false,
       "fecha": "2023-11-04T22:20:32+00:00"
-    },
-    {
-      "id": 21018,
-      "nombre": "BOTI: BYTELAND OVERCLOCKED**",
-      "url": "https://t.me/c/1634508656/21018",
-      "url_steam": "https://store.steampowered.com/app/2161050/Boti_Byteland_Overclocked/",
-      "app_id": "2161050",
-      "imagen_local": false,
-      "fecha": "2023-11-04T22:20:32+00:00"
-    },
-    {
-      "id": 21011,
-      "nombre": "THE EXPANSE: A TELLTALE SERIES",
-      "url": "https://t.me/c/1634508656/21011",
-      "url_steam": null,
-      "app_id": null,
-      "imagen_local": true,
-      "fecha": "2023-11-04T22:20:16+00:00"
     },
     {
       "id": 21009,
@@ -21304,30 +20809,12 @@
       "fecha": "2023-10-28T09:18:23+00:00"
     },
     {
-      "id": 20683,
-      "nombre": "XENOBLADE CHRONICLES 3  ****🌐**** ****😎****",
-      "url": "https://t.me/c/1634508656/20683",
-      "url_steam": null,
-      "app_id": null,
-      "imagen_local": true,
-      "fecha": "2023-10-28T09:18:06+00:00"
-    },
-    {
       "id": 20681,
       "nombre": "DREAMHUNTER",
       "url": "https://t.me/c/1634508656/20681",
       "url_steam": "https://store.steampowered.com/app/1553710/Dreadhunter/",
       "app_id": "1553710",
       "imagen_local": false,
-      "fecha": "2023-10-28T09:18:05+00:00"
-    },
-    {
-      "id": 20676,
-      "nombre": "SONIC FRONTIERS   ****🌐**** ****😎****",
-      "url": "https://t.me/c/1634508656/20676",
-      "url_steam": null,
-      "app_id": null,
-      "imagen_local": true,
       "fecha": "2023-10-28T09:18:05+00:00"
     },
     {
@@ -21374,15 +20861,6 @@
       "app_id": "2503220",
       "imagen_local": false,
       "fecha": "2023-10-28T09:17:46+00:00"
-    },
-    {
-      "id": 20656,
-      "nombre": "SUPER MARIO BROS WONDER   ****🌐**** ****😎****",
-      "url": "https://t.me/c/1634508656/20656",
-      "url_steam": null,
-      "app_id": null,
-      "imagen_local": true,
-      "fecha": "2023-10-21T11:46:49+00:00"
     },
     {
       "id": 20654,
@@ -21547,15 +21025,6 @@
       "fecha": "2023-10-21T11:44:21+00:00"
     },
     {
-      "id": 20501,
-      "nombre": "SUPER MARIO BROS WONDER   ****🌐**** ****😎****",
-      "url": "https://t.me/c/1634508656/20501",
-      "url_steam": null,
-      "app_id": null,
-      "imagen_local": true,
-      "fecha": "2023-10-21T11:44:20+00:00"
-    },
-    {
       "id": 20499,
       "nombre": "AXIOM VERGE 2",
       "url": "https://t.me/c/1634508656/20499",
@@ -21608,15 +21077,6 @@
       "app_id": null,
       "imagen_local": true,
       "fecha": "2023-10-21T11:44:00+00:00"
-    },
-    {
-      "id": 20478,
-      "nombre": "SOULSTONE SURVIVORS**",
-      "url": "https://t.me/c/1634508656/20478",
-      "url_steam": "https://store.steampowered.com/app/2066020/Soulstone_Survivors?snr=1_7_15__13",
-      "app_id": "2066020",
-      "imagen_local": false,
-      "fecha": "2023-10-21T11:43:41+00:00"
     },
     {
       "id": 20474,
@@ -22006,15 +21466,6 @@
       "fecha": "2023-10-07T11:05:52+00:00"
     },
     {
-      "id": 20227,
-      "nombre": "SWORD ART ONLINE LAST RECOLLECTION",
-      "url": "https://t.me/c/1634508656/20227",
-      "url_steam": "https://store.steampowered.com/app/1566880/SWORD_ART_ONLINE_Last_Recollection/?curator_clanid=4777282",
-      "app_id": "1566880",
-      "imagen_local": false,
-      "fecha": "2023-10-07T11:05:31+00:00"
-    },
-    {
       "id": 20222,
       "nombre": "STATION TO STATION",
       "url": "https://t.me/c/1634508656/20222",
@@ -22150,15 +21601,6 @@
       "fecha": "2023-10-07T11:00:48+00:00"
     },
     {
-      "id": 19997,
-      "nombre": "COROROMON",
-      "url": "https://t.me/c/1634508656/19997",
-      "url_steam": null,
-      "app_id": null,
-      "imagen_local": true,
-      "fecha": "2023-10-07T10:59:56+00:00"
-    },
-    {
       "id": 19990,
       "nombre": "BLOOD BOWL II SEASON 2",
       "url": "https://t.me/c/1634508656/19990",
@@ -22184,15 +21626,6 @@
       "app_id": "2507940",
       "imagen_local": false,
       "fecha": "2023-10-07T10:59:54+00:00"
-    },
-    {
-      "id": 19973,
-      "nombre": "TONY HAWK'S PRO SKATER 1 + 2",
-      "url": "https://t.me/c/1634508656/19973",
-      "url_steam": "https://store.steampowered.com/app/2395210/Tony_Hawks_Pro_Skater_1__2/",
-      "app_id": "2395210",
-      "imagen_local": false,
-      "fecha": "2023-10-07T10:59:30+00:00"
     },
     {
       "id": 19970,
@@ -22319,15 +21752,6 @@
       "app_id": "1568970",
       "imagen_local": false,
       "fecha": "2023-10-07T10:57:54+00:00"
-    },
-    {
-      "id": 19852,
-      "nombre": "SP FOOTBALL LIFE 2024",
-      "url": "https://t.me/c/1634508656/19852",
-      "url_steam": null,
-      "app_id": null,
-      "imagen_local": true,
-      "fecha": "2023-10-03T18:28:39+00:00"
     },
     {
       "id": 19811,
@@ -22715,15 +22139,6 @@
       "app_id": "951440",
       "imagen_local": false,
       "fecha": "2023-09-23T07:56:53+00:00"
-    },
-    {
-      "id": 19454,
-      "nombre": "TEENAGE MUTANT NINJA TURTLES SHREDDERS REVENGE DIMENSION SHELLSHOCK",
-      "url": "https://t.me/c/1634508656/19454",
-      "url_steam": "https://store.steampowered.com/app/2348930/Teenage_Mutant_Ninja_Turtles_Shredders_Revenge__Dimension_Shellshock/",
-      "app_id": "2348930",
-      "imagen_local": false,
-      "fecha": "2023-09-23T07:56:30+00:00"
     },
     {
       "id": 19450,
@@ -23536,15 +22951,6 @@
       "fecha": "2023-08-26T11:53:04+00:00"
     },
     {
-      "id": 18456,
-      "nombre": "SHADOW GAMBIT: THE CURSE CREW",
-      "url": "https://t.me/c/1634508656/18456",
-      "url_steam": null,
-      "app_id": null,
-      "imagen_local": true,
-      "fecha": "2023-08-26T11:53:03+00:00"
-    },
-    {
       "id": 18339,
       "nombre": "WALL WORLD",
       "url": "https://t.me/c/1634508656/18339",
@@ -23613,15 +23019,6 @@
       "url": "https://t.me/c/1634508656/18282",
       "url_steam": "https://store.steampowered.com/app/1920780/Stray_Gods_The_Roleplaying_Musical/",
       "app_id": "1920780",
-      "imagen_local": false,
-      "fecha": "2023-08-11T10:47:03+00:00"
-    },
-    {
-      "id": 18279,
-      "nombre": "V RISING",
-      "url": "https://t.me/c/1634508656/18279",
-      "url_steam": "https://store.steampowered.com/app/1604030/V_Rising/",
-      "app_id": "1604030",
       "imagen_local": false,
       "fecha": "2023-08-11T10:47:03+00:00"
     },
@@ -24094,15 +23491,6 @@
       "fecha": "2023-07-27T15:06:33+00:00"
     },
     {
-      "id": 17984,
-      "nombre": "SHOULDERS OF GIANTS",
-      "url": "https://t.me/c/1634508656/17984",
-      "url_steam": null,
-      "app_id": null,
-      "imagen_local": true,
-      "fecha": "2023-07-27T15:03:22+00:00"
-    },
-    {
       "id": 17982,
       "nombre": "SHY CATS HIDDEN ORCHESTRA",
       "url": "https://t.me/c/1634508656/17982",
@@ -24191,15 +23579,6 @@
       "app_id": "2213300",
       "imagen_local": false,
       "fecha": "2023-07-26T14:00:16+00:00"
-    },
-    {
-      "id": 17869,
-      "nombre": "SPACE GATSE TACTICS",
-      "url": "https://t.me/c/1634508656/17869",
-      "url_steam": "https://store.steampowered.com/app/1293300/Space_Cats_Tactics/",
-      "app_id": "1293300",
-      "imagen_local": false,
-      "fecha": "2023-07-26T13:57:31+00:00"
     },
     {
       "id": 17861,
@@ -24506,15 +23885,6 @@
       "app_id": "1707650",
       "imagen_local": false,
       "fecha": "2023-07-13T17:00:12+00:00"
-    },
-    {
-      "id": 17556,
-      "nombre": "STAR TREK RESURGENCE",
-      "url": "https://t.me/c/1634508656/17556",
-      "url_steam": null,
-      "app_id": null,
-      "imagen_local": true,
-      "fecha": "2023-07-11T20:25:34+00:00"
     },
     {
       "id": 17554,
@@ -25226,15 +24596,6 @@
       "app_id": "1497450",
       "imagen_local": false,
       "fecha": "2023-06-19T14:10:38+00:00"
-    },
-    {
-      "id": 17128,
-      "nombre": "TRAIL OUT",
-      "url": "https://t.me/c/1634508656/17128",
-      "url_steam": "https://store.steampowered.com/app/1664220/TRAIL_OUT/",
-      "app_id": "1664220",
-      "imagen_local": false,
-      "fecha": "2023-06-19T08:48:01+00:00"
     },
     {
       "id": 17126,
@@ -26038,15 +25399,6 @@
       "fecha": "2023-05-29T16:40:40+00:00"
     },
     {
-      "id": 16413,
-      "nombre": "FORZA HORIZON 5",
-      "url": "https://t.me/c/1634508656/16413",
-      "url_steam": "https://store.steampowered.com/app/1551360/Forza_Horizon_5/",
-      "app_id": "1551360",
-      "imagen_local": false,
-      "fecha": "2023-05-28T20:43:03+00:00"
-    },
-    {
       "id": 16389,
       "nombre": "THE LORD OF THE RINGS: GOLLUM",
       "url": "https://t.me/c/1634508656/16389",
@@ -26839,15 +26191,6 @@
       "fecha": "2023-05-02T21:02:08+00:00"
     },
     {
-      "id": 15657,
-      "nombre": "Wo Long Fallen Dinasty",
-      "url": "https://t.me/c/1634508656/15657",
-      "url_steam": "https://store.steampowered.com/app/1448440/Wo_Long_Fallen_Dynasty/",
-      "app_id": "1448440",
-      "imagen_local": false,
-      "fecha": "2023-04-30T21:14:04+00:00"
-    },
-    {
       "id": 15639,
       "nombre": "SKINNY AND FRANKO FISTS OF VIOLENCE",
       "url": "https://t.me/c/1634508656/15639",
@@ -27397,15 +26740,6 @@
       "fecha": "2023-04-05T12:23:39+00:00"
     },
     {
-      "id": 14916,
-      "nombre": "V 1. 0.1.7**",
-      "url": "https://t.me/c/1634508656/14916",
-      "url_steam": null,
-      "app_id": null,
-      "imagen_local": true,
-      "fecha": "2023-04-05T05:51:06+00:00"
-    },
-    {
       "id": 14890,
       "nombre": "Marvel's Avengers - The Definitive Edition",
       "url": "https://t.me/c/1634508656/14890",
@@ -27593,15 +26927,6 @@
       "app_id": "1086940",
       "imagen_local": false,
       "fecha": "2023-03-31T12:20:16+00:00"
-    },
-    {
-      "id": 14702,
-      "nombre": "THE LAST OF US",
-      "url": "https://t.me/c/1634508656/14702",
-      "url_steam": "https://store.steampowered.com/app/1888930/The_Last_of_Us_Parte_I/",
-      "app_id": "1888930",
-      "imagen_local": false,
-      "fecha": "2023-03-31T11:35:01+00:00"
     },
     {
       "id": 14551,
@@ -28234,15 +27559,6 @@
       "fecha": "2023-03-08T20:51:59+00:00"
     },
     {
-      "id": 13909,
-      "nombre": "BLOONS TD 6",
-      "url": "https://t.me/c/1634508656/13909",
-      "url_steam": "https://store.steampowered.com/app/960090/Bloons_TD_6/",
-      "app_id": "960090",
-      "imagen_local": true,
-      "fecha": "2023-03-08T20:27:48+00:00"
-    },
-    {
       "id": 13906,
       "nombre": "Simon the Sorcerer**",
       "url": "https://t.me/c/1634508656/13906",
@@ -28637,15 +27953,6 @@
       "app_id": "50300",
       "imagen_local": true,
       "fecha": "2023-03-04T20:15:32+00:00"
-    },
-    {
-      "id": 13702,
-      "nombre": "JOURNEY TO THE SAVAGE PLANET",
-      "url": "https://t.me/c/1634508656/13702",
-      "url_steam": "https://store.steampowered.com/app/973810/Journey_To_The_Savage_Planet/",
-      "app_id": "973810",
-      "imagen_local": true,
-      "fecha": "2023-03-04T19:24:31+00:00"
     },
     {
       "id": 13693,
@@ -29125,15 +28432,6 @@
       "fecha": "2023-02-18T11:19:01+00:00"
     },
     {
-      "id": 13110,
-      "nombre": "BRIGHT MEMORY INFINITE",
-      "url": "https://t.me/c/1634508656/13110",
-      "url_steam": "https://store.steampowered.com/app/1178830/Bright_Memory_Infinite/",
-      "app_id": "1178830",
-      "imagen_local": true,
-      "fecha": "2023-02-17T12:28:48+00:00"
-    },
-    {
       "id": 13068,
       "nombre": "RETURNAL",
       "url": "https://t.me/c/1634508656/13068",
@@ -29249,24 +28547,6 @@
       "app_id": "976920",
       "imagen_local": true,
       "fecha": "2023-02-11T08:35:58+00:00"
-    },
-    {
-      "id": 12976,
-      "nombre": "PROTOTYPE 2",
-      "url": "https://t.me/c/1634508656/12976",
-      "url_steam": "https://store.steampowered.com/app/115320/Prototype_2/",
-      "app_id": "115320",
-      "imagen_local": true,
-      "fecha": "2023-02-10T21:29:40+00:00"
-    },
-    {
-      "id": 12970,
-      "nombre": "PROTOTYPE",
-      "url": "https://t.me/c/1634508656/12970",
-      "url_steam": "https://store.steampowered.com/app/10150/Prototype/",
-      "app_id": "10150",
-      "imagen_local": true,
-      "fecha": "2023-02-10T21:29:23+00:00"
     },
     {
       "id": 12940,
@@ -29683,33 +28963,6 @@
       "fecha": "2023-02-01T06:58:52+00:00"
     },
     {
-      "id": 12432,
-      "nombre": "ADAMS VENTURE CHRONICLES",
-      "url": "https://t.me/c/1634508656/12432",
-      "url_steam": "https://store.steampowered.com/app/362410/Adams_Venture_Chronicles/",
-      "app_id": "362410",
-      "imagen_local": true,
-      "fecha": "2023-02-01T06:45:27+00:00"
-    },
-    {
-      "id": 12414,
-      "nombre": "GUNGRAVE GORE",
-      "url": "https://t.me/c/1634508656/12414",
-      "url_steam": "https://store.steampowered.com/app/1630110/Gungrave_GORE/",
-      "app_id": "1630110",
-      "imagen_local": true,
-      "fecha": "2023-02-01T06:45:26+00:00"
-    },
-    {
-      "id": 12408,
-      "nombre": "BOB ESPONJA THE COSMIC SHAKE",
-      "url": "https://t.me/c/1634508656/12408",
-      "url_steam": "https://store.steampowered.com/app/1282150/Bob_Esponja_The_Cosmic_Shake/",
-      "app_id": "1282150",
-      "imagen_local": true,
-      "fecha": "2023-01-31T23:02:17+00:00"
-    },
-    {
       "id": 12397,
       "nombre": "MEGA MAN X LEGACY COLLECTION 2",
       "url": "https://t.me/c/1634508656/12397",
@@ -29791,15 +29044,6 @@
       "fecha": "2023-01-30T23:51:51+00:00"
     },
     {
-      "id": 12335,
-      "nombre": "A SPACE FOR THE UNBOUND",
-      "url": "https://t.me/c/1634508656/12335",
-      "url_steam": "https://store.steampowered.com/app/1201270/A_Space_for_the_Unbound/",
-      "app_id": "1201270",
-      "imagen_local": true,
-      "fecha": "2023-01-30T23:05:49+00:00"
-    },
-    {
       "id": 12314,
       "nombre": "Peticiones",
       "url": "https://t.me/c/1634508656/12314",
@@ -29825,15 +29069,6 @@
       "app_id": "892970",
       "imagen_local": true,
       "fecha": "2023-01-30T14:10:50+00:00"
-    },
-    {
-      "id": 12261,
-      "nombre": "THE FRIENDS OF RINGO ISHIKAWA",
-      "url": "https://t.me/c/1634508656/12261",
-      "url_steam": "https://store.steampowered.com/app/846110/The_friends_of_Ringo_Ishikawa/",
-      "app_id": "846110",
-      "imagen_local": true,
-      "fecha": "2023-01-30T10:16:00+00:00"
     },
     {
       "id": 12251,
@@ -29879,15 +29114,6 @@
       "app_id": "47790",
       "imagen_local": true,
       "fecha": "2023-01-29T00:00:15+00:00"
-    },
-    {
-      "id": 12180,
-      "nombre": "https://store.steampowered.com/bundle/8133/Borderlands_The_Handsome_Collection/",
-      "url": "https://t.me/c/1634508656/12180",
-      "url_steam": null,
-      "app_id": null,
-      "imagen_local": true,
-      "fecha": "2023-01-28T21:54:59+00:00"
     },
     {
       "id": 12176,
@@ -31213,15 +30439,6 @@
       "fecha": "2023-01-04T20:47:49+00:00"
     },
     {
-      "id": 11029,
-      "nombre": "MECHWARRIOR 5 MERCENARIES",
-      "url": "https://t.me/c/1634508656/11029",
-      "url_steam": "https://store.steampowered.com/app/784080/MechWarrior_5_Mercenaries/",
-      "app_id": "784080",
-      "imagen_local": true,
-      "fecha": "2023-01-04T20:47:48+00:00"
-    },
-    {
       "id": 11023,
       "nombre": "VISAGE",
       "url": "https://t.me/c/1634508656/11023",
@@ -31247,15 +30464,6 @@
       "app_id": "750920",
       "imagen_local": true,
       "fecha": "2023-01-04T20:00:04+00:00"
-    },
-    {
-      "id": 10997,
-      "nombre": "YOOKALAYLEE",
-      "url": "https://t.me/c/1634508656/10997",
-      "url_steam": "https://store.steampowered.com/app/360830/YookaLaylee/",
-      "app_id": "360830",
-      "imagen_local": true,
-      "fecha": "2023-01-04T15:51:58+00:00"
     },
     {
       "id": 10992,
@@ -31616,15 +30824,6 @@
       "app_id": "692840",
       "imagen_local": true,
       "fecha": "2022-12-30T20:22:10+00:00"
-    },
-    {
-      "id": 10542,
-      "nombre": "EVIL NUN THE BROKEN MASK",
-      "url": "https://t.me/c/1634508656/10542",
-      "url_steam": "https://store.steampowered.com/app/1460220/Evil_Nun_The_Broken_Mask/",
-      "app_id": "1460220",
-      "imagen_local": true,
-      "fecha": "2022-12-30T16:13:59+00:00"
     },
     {
       "id": 10539,
@@ -32212,15 +31411,6 @@
       "fecha": "2022-12-25T21:09:00+00:00"
     },
     {
-      "id": 9969,
-      "nombre": "https://store.steampowered.com/bundle/29537/Vampire_Survivors_Game__DLC_Bundle/",
-      "url": "https://t.me/c/1634508656/9969",
-      "url_steam": null,
-      "app_id": null,
-      "imagen_local": true,
-      "fecha": "2022-12-24T11:56:42+00:00"
-    },
-    {
       "id": 9962,
       "nombre": "GRIME",
       "url": "https://t.me/c/1634508656/9962",
@@ -32291,15 +31481,6 @@
       "app_id": "1122720",
       "imagen_local": true,
       "fecha": "2022-12-21T08:54:17+00:00"
-    },
-    {
-      "id": 9899,
-      "nombre": "POWER RANGERS BATTLE FOR THE GRID",
-      "url": "https://t.me/c/1634508656/9899",
-      "url_steam": "https://store.steampowered.com/app/1110100/Power_Rangers_Battle_for_the_Grid/",
-      "app_id": "1110100",
-      "imagen_local": true,
-      "fecha": "2022-12-21T08:34:44+00:00"
     },
     {
       "id": 9896,
@@ -32464,15 +31645,6 @@
       "fecha": "2022-12-19T09:30:38+00:00"
     },
     {
-      "id": 9657,
-      "nombre": "ROAD 96",
-      "url": "https://t.me/c/1634508656/9657",
-      "url_steam": "https://store.steampowered.com/app/1466640/Road_96/",
-      "app_id": "1466640",
-      "imagen_local": true,
-      "fecha": "2022-12-19T00:38:17+00:00"
-    },
-    {
       "id": 9653,
       "nombre": "DEMEO PC EDITION",
       "url": "https://t.me/c/1634508656/9653",
@@ -32525,15 +31697,6 @@
       "app_id": "493200",
       "imagen_local": true,
       "fecha": "2022-12-17T08:01:25+00:00"
-    },
-    {
-      "id": 9627,
-      "nombre": "MASTER OF MAGIC",
-      "url": "https://t.me/c/1634508656/9627",
-      "url_steam": "https://store.steampowered.com/app/1623070/Master_of_Magic/",
-      "app_id": "1623070",
-      "imagen_local": true,
-      "fecha": "2022-12-17T08:00:50+00:00"
     },
     {
       "id": 9623,
@@ -32680,15 +31843,6 @@
       "fecha": "2022-12-15T16:35:56+00:00"
     },
     {
-      "id": 9499,
-      "nombre": "RIVER CITY GIRLS 2",
-      "url": "https://t.me/c/1634508656/9499",
-      "url_steam": "https://store.steampowered.com/app/1920480/River_City_Girls_2/",
-      "app_id": "1920480",
-      "imagen_local": true,
-      "fecha": "2022-12-15T16:00:30+00:00"
-    },
-    {
       "id": 9495,
       "nombre": "RIVER CITY GIRLS",
       "url": "https://t.me/c/1634508656/9495",
@@ -32752,15 +31906,6 @@
       "fecha": "2022-12-15T09:58:33+00:00"
     },
     {
-      "id": 9409,
-      "nombre": "THE WITCHER 3 WILD HUNT",
-      "url": "https://t.me/c/1634508656/9409",
-      "url_steam": "https://store.steampowered.com/app/292030/The_Witcher_3_Wild_Hunt/?l=spanish",
-      "app_id": "292030",
-      "imagen_local": true,
-      "fecha": "2022-12-15T09:11:48+00:00"
-    },
-    {
       "id": 9398,
       "nombre": "CRISIS CORE FINAL FANTASY VII REUNION",
       "url": "https://t.me/c/1634508656/9398",
@@ -32822,15 +31967,6 @@
       "app_id": "200260",
       "imagen_local": true,
       "fecha": "2022-12-13T22:12:45+00:00"
-    },
-    {
-      "id": 9323,
-      "nombre": "BURNHOUSE LANE",
-      "url": "https://t.me/c/1634508656/9323",
-      "url_steam": "https://store.steampowered.com/app/1846460/Burnhouse_Lane/",
-      "app_id": "1846460",
-      "imagen_local": true,
-      "fecha": "2022-12-13T22:12:44+00:00"
     },
     {
       "id": 9320,
@@ -33103,15 +32239,6 @@
       "fecha": "2022-12-10T10:57:47+00:00"
     },
     {
-      "id": 9165,
-      "nombre": "ZERO SIEVERT",
-      "url": "https://t.me/c/1634508656/9165",
-      "url_steam": "https://store.steampowered.com/app/1782120/ZERO_Sievert/",
-      "app_id": "1782120",
-      "imagen_local": true,
-      "fecha": "2022-12-10T09:35:56+00:00"
-    },
-    {
       "id": 9153,
       "nombre": "DRAGONS DOGMA DARK ARISEN",
       "url": "https://t.me/c/1634508656/9153",
@@ -33182,15 +32309,6 @@
       "app_id": "580640",
       "imagen_local": true,
       "fecha": "2022-12-09T17:51:43+00:00"
-    },
-    {
-      "id": 9123,
-      "nombre": "UNDEAD HORDE 2 NECROPOLIS",
-      "url": "https://t.me/c/1634508656/9123",
-      "url_steam": "https://store.steampowered.com/app/2065810/Undead_Horde_2_Necropolis/",
-      "app_id": "2065810",
-      "imagen_local": true,
-      "fecha": "2022-12-09T17:48:48+00:00"
     },
     {
       "id": 9120,
@@ -33625,15 +32743,6 @@
       "fecha": "2022-12-03T06:45:50+00:00"
     },
     {
-      "id": 8735,
-      "nombre": "VAMPIRE SURVIVORS",
-      "url": "https://t.me/c/1634508656/8735",
-      "url_steam": "https://store.steampowered.com/app/1794680/Vampire_Survivors/",
-      "app_id": "1794680",
-      "imagen_local": true,
-      "fecha": "2022-12-03T06:32:00+00:00"
-    },
-    {
       "id": 8729,
       "nombre": "PROJECT DOWNFALL",
       "url": "https://t.me/c/1634508656/8729",
@@ -33913,15 +33022,6 @@
       "fecha": "2022-11-28T22:22:30+00:00"
     },
     {
-      "id": 8499,
-      "nombre": "COROMON",
-      "url": "https://t.me/c/1634508656/8499",
-      "url_steam": "https://store.steampowered.com/app/1218210/Coromon/",
-      "app_id": "1218210",
-      "imagen_local": true,
-      "fecha": "2022-11-28T19:26:40+00:00"
-    },
-    {
       "id": 8492,
       "nombre": "NBA 2K PLAYGROUNDS 2",
       "url": "https://t.me/c/1634508656/8492",
@@ -33929,15 +33029,6 @@
       "app_id": "726590",
       "imagen_local": true,
       "fecha": "2022-11-28T19:26:39+00:00"
-    },
-    {
-      "id": 8468,
-      "nombre": "https://store.epicgames.com/es-ES/p/world-war-z--goty-edition",
-      "url": "https://t.me/c/1634508656/8468",
-      "url_steam": null,
-      "app_id": null,
-      "imagen_local": true,
-      "fecha": "2022-11-28T19:26:37+00:00"
     },
     {
       "id": 8462,
@@ -33956,15 +33047,6 @@
       "app_id": "301560",
       "imagen_local": true,
       "fecha": "2022-11-28T14:14:30+00:00"
-    },
-    {
-      "id": 8456,
-      "nombre": "BROK THE INVESTIGATOR",
-      "url": "https://t.me/c/1634508656/8456",
-      "url_steam": "https://store.steampowered.com/app/949480/BROK_the_InvestiGator/",
-      "app_id": "949480",
-      "imagen_local": true,
-      "fecha": "2022-11-28T13:22:18+00:00"
     },
     {
       "id": 8437,
@@ -35137,15 +34219,6 @@
       "fecha": "2022-11-11T18:11:57+00:00"
     },
     {
-      "id": 6800,
-      "nombre": "HOT WHEELS UNLEASHED",
-      "url": "https://t.me/c/1634508656/6800",
-      "url_steam": "https://store.steampowered.com/app/1271700/HOT_WHEELS_UNLEASHED/",
-      "app_id": "1271700",
-      "imagen_local": true,
-      "fecha": "2022-11-11T18:11:24+00:00"
-    },
-    {
       "id": 6797,
       "nombre": "BRATZ A PRESUMIR DE ESTILAZO",
       "url": "https://t.me/c/1634508656/6797",
@@ -35479,15 +34552,6 @@
       "fecha": "2022-11-07T10:10:49+00:00"
     },
     {
-      "id": 6456,
-      "nombre": "CONTROL ULTIMATE EDITION",
-      "url": "https://t.me/c/1634508656/6456",
-      "url_steam": "https://store.steampowered.com/app/870780/Control_Ultimate_Edition/",
-      "app_id": "870780",
-      "imagen_local": true,
-      "fecha": "2022-11-07T08:51:32+00:00"
-    },
-    {
       "id": 6453,
       "nombre": "DORAEMON STORY OF SEASONS",
       "url": "https://t.me/c/1634508656/6453",
@@ -35614,15 +34678,6 @@
       "fecha": "2022-11-05T12:49:42+00:00"
     },
     {
-      "id": 6380,
-      "nombre": "AGATHA CHRISTIE HERCULE POIROT THE FIRST CASES",
-      "url": "https://t.me/c/1634508656/6380",
-      "url_steam": "https://store.steampowered.com/app/1573720/Agatha_Christie__Hercule_Poirot_The_First_Cases/",
-      "app_id": "1573720",
-      "imagen_local": true,
-      "fecha": "2022-11-05T12:19:56+00:00"
-    },
-    {
       "id": 6367,
       "nombre": "SYBERIA 3",
       "url": "https://t.me/c/1634508656/6367",
@@ -35711,15 +34766,6 @@
       "app_id": "294100",
       "imagen_local": true,
       "fecha": "2022-11-04T18:05:30+00:00"
-    },
-    {
-      "id": 6299,
-      "nombre": "THE CHANT",
-      "url": "https://t.me/c/1634508656/6299",
-      "url_steam": "https://store.steampowered.com/app/1577250/The_Chant/",
-      "app_id": "1577250",
-      "imagen_local": true,
-      "fecha": "2022-11-04T05:16:08+00:00"
     },
     {
       "id": 6295,
@@ -35830,15 +34876,6 @@
       "fecha": "2022-11-02T20:56:00+00:00"
     },
     {
-      "id": 6206,
-      "nombre": "TRIALS EVOLUTION GOLD EDITION",
-      "url": "https://t.me/c/1634508656/6206",
-      "url_steam": "https://store.steampowered.com/app/220160/Trials_Evolution_Gold_Edition/",
-      "app_id": "220160",
-      "imagen_local": true,
-      "fecha": "2022-11-02T15:55:16+00:00"
-    },
-    {
       "id": 6198,
       "nombre": "LEGO MARVEL SUPER HEROES",
       "url": "https://t.me/c/1634508656/6198",
@@ -35875,15 +34912,6 @@
       "fecha": "2022-11-02T08:21:18+00:00"
     },
     {
-      "id": 6132,
-      "nombre": "TEENAGE MUTANT NINJA TURTLES SHREDDERS REVENGE",
-      "url": "https://t.me/c/1634508656/6132",
-      "url_steam": "https://store.steampowered.com/app/1361510/Teenage_Mutant_Ninja_Turtles_Shredders_Revenge/",
-      "app_id": "1361510",
-      "imagen_local": true,
-      "fecha": "2022-11-02T08:21:01+00:00"
-    },
-    {
       "id": 6126,
       "nombre": "DEAD ISLAND RETRO REVENGE",
       "url": "https://t.me/c/1634508656/6126",
@@ -35891,15 +34919,6 @@
       "app_id": "337360",
       "imagen_local": true,
       "fecha": "2022-11-02T08:21:00+00:00"
-    },
-    {
-      "id": 6117,
-      "nombre": "GUILTY GEAR XRD REV 2",
-      "url": "https://t.me/c/1634508656/6117",
-      "url_steam": "https://store.steampowered.com/app/520440/GUILTY_GEAR_Xrd_REV_2/",
-      "app_id": "520440",
-      "imagen_local": true,
-      "fecha": "2022-11-02T08:20:40+00:00"
     },
     {
       "id": 6111,
@@ -36109,15 +35128,6 @@
       "fecha": "2022-10-30T18:45:02+00:00"
     },
     {
-      "id": 5820,
-      "nombre": "SEKIRO SHADOWS DIE TWICE GOTY EDITION",
-      "url": "https://t.me/c/1634508656/5820",
-      "url_steam": "https://store.steampowered.com/app/814380/Sekiro_Shadows_Die_Twice__GOTY_Edition/",
-      "app_id": "814380",
-      "imagen_local": true,
-      "fecha": "2022-10-30T18:31:54+00:00"
-    },
-    {
       "id": 5799,
       "nombre": "ANNO MUTATIONEM",
       "url": "https://t.me/c/1634508656/5799",
@@ -36152,15 +35162,6 @@
       "app_id": "352400",
       "imagen_local": true,
       "fecha": "2022-10-30T10:07:51+00:00"
-    },
-    {
-      "id": 5764,
-      "nombre": "FAITH THE UNHOLY TRINITY",
-      "url": "https://t.me/c/1634508656/5764",
-      "url_steam": "https://store.steampowered.com/app/1179080/FAITH_The_Unholy_Trinity/",
-      "app_id": "1179080",
-      "imagen_local": true,
-      "fecha": "2022-10-30T10:07:35+00:00"
     },
     {
       "id": 5761,
@@ -36496,15 +35497,6 @@
       "fecha": "2022-10-28T01:09:20+00:00"
     },
     {
-      "id": 5352,
-      "nombre": "CROSSING SOULS",
-      "url": "https://t.me/c/1634508656/5352",
-      "url_steam": "https://store.steampowered.com/app/331690/Crossing_Souls/",
-      "app_id": "331690",
-      "imagen_local": true,
-      "fecha": "2022-10-27T22:11:34+00:00"
-    },
-    {
       "id": 5337,
       "nombre": "BATTLEFIELD 1",
       "url": "https://t.me/c/1634508656/5337",
@@ -36800,15 +35792,6 @@
       "app_id": "1390410",
       "imagen_local": true,
       "fecha": "2022-10-26T11:56:23+00:00"
-    },
-    {
-      "id": 4943,
-      "nombre": "ROLLERDROME",
-      "url": "https://t.me/c/1634508656/4943",
-      "url_steam": "https://store.steampowered.com/app/1294420/Rollerdrome/",
-      "app_id": "1294420",
-      "imagen_local": true,
-      "fecha": "2022-10-26T11:54:15+00:00"
     },
     {
       "id": 4940,
@@ -37126,15 +36109,6 @@
       "fecha": "2022-10-21T19:41:45+00:00"
     },
     {
-      "id": 4471,
-      "nombre": "https://store.epicgames.com/es-ES/p/kingdom-hearts-hd-1-5-2-5-remix",
-      "url": "https://t.me/c/1634508656/4471",
-      "url_steam": null,
-      "app_id": null,
-      "imagen_local": true,
-      "fecha": "2022-10-21T19:41:44+00:00"
-    },
-    {
       "id": 4445,
       "nombre": "ASSASSINS CREED SYNDICATE",
       "url": "https://t.me/c/1634508656/4445",
@@ -37268,15 +36242,6 @@
       "app_id": "236690",
       "imagen_local": true,
       "fecha": "2022-10-21T17:53:19+00:00"
-    },
-    {
-      "id": 4274,
-      "nombre": "ELDEN RING",
-      "url": "https://t.me/c/1634508656/4274",
-      "url_steam": "https://store.steampowered.com/app/1245620/ELDEN_RING/",
-      "app_id": "1245620",
-      "imagen_local": true,
-      "fecha": "2022-10-21T17:53:17+00:00"
     },
     {
       "id": 4270,
@@ -37558,15 +36523,6 @@
       "fecha": "2022-10-21T17:47:58+00:00"
     },
     {
-      "id": 3895,
-      "nombre": "Tales of Arise",
-      "url": "https://t.me/c/1634508656/3895",
-      "url_steam": "https://store.steampowered.com/app/740130/Tales_of_Arise",
-      "app_id": "740130",
-      "imagen_local": true,
-      "fecha": "2022-10-21T16:50:21+00:00"
-    },
-    {
       "id": 3841,
       "nombre": "DRAGON AGE INQUISITION",
       "url": "https://t.me/c/1634508656/3841",
@@ -37837,15 +36793,6 @@
       "fecha": "2022-10-21T16:46:15+00:00"
     },
     {
-      "id": 3525,
-      "nombre": "Desert Rally",
-      "url": "https://t.me/c/1634508656/3525",
-      "url_steam": null,
-      "app_id": null,
-      "imagen_local": true,
-      "fecha": "2022-10-21T16:46:14+00:00"
-    },
-    {
       "id": 3518,
       "nombre": "THE DUNGEON OF NAHEULBEUK THE AMULET OF CHAOS",
       "url": "https://t.me/c/1634508656/3518",
@@ -37963,29 +36910,11 @@
       "fecha": "2022-10-21T16:40:06+00:00"
     },
     {
-      "id": 3151,
-      "nombre": "HORIZON ZERO DAWN COMPLETE EDITION",
-      "url": "https://t.me/c/1634508656/3151",
-      "url_steam": "https://store.steampowered.com/app/1151640/Horizon_Zero_Dawn_Complete_Edition/",
-      "app_id": "1151640",
-      "imagen_local": true,
-      "fecha": "2022-10-21T16:40:04+00:00"
-    },
-    {
       "id": 3142,
       "nombre": "BAD WAY",
       "url": "https://t.me/c/1634508656/3142",
       "url_steam": "https://store.steampowered.com/app/1497330/Bad_Way/",
       "app_id": "1497330",
-      "imagen_local": true,
-      "fecha": "2022-10-21T16:33:51+00:00"
-    },
-    {
-      "id": 3134,
-      "nombre": "GROUNDED",
-      "url": "https://t.me/c/1634508656/3134",
-      "url_steam": "https://store.steampowered.com/app/962130/Grounded/",
-      "app_id": "962130",
       "imagen_local": true,
       "fecha": "2022-10-21T16:33:51+00:00"
     },
@@ -38332,15 +37261,6 @@
       "fecha": "2022-10-21T13:51:32+00:00"
     },
     {
-      "id": 2369,
-      "nombre": "https://telegra.ph/file/cee3b6e927d91ded3373c.jpg)Days gone",
-      "url": "https://t.me/c/1634508656/2369",
-      "url_steam": null,
-      "app_id": null,
-      "imagen_local": true,
-      "fecha": "2022-10-21T13:51:31+00:00"
-    },
-    {
       "id": 2361,
       "nombre": "WINDFOLK SKY IS JUST THE BEGINNING",
       "url": "https://t.me/c/1634508656/2361",
@@ -38402,15 +37322,6 @@
       "app_id": "1469170",
       "imagen_local": true,
       "fecha": "2022-10-21T13:50:03+00:00"
-    },
-    {
-      "id": 2214,
-      "nombre": "Dead Redemption 2",
-      "url": "https://t.me/c/1634508656/2214",
-      "url_steam": null,
-      "app_id": null,
-      "imagen_local": true,
-      "fecha": "2022-10-21T13:50:01+00:00"
     },
     {
       "id": 2199,
@@ -38490,15 +37401,6 @@
       "url": "https://t.me/c/1634508656/2121",
       "url_steam": "https://store.steampowered.com/app/1145360/Hades/",
       "app_id": "1145360",
-      "imagen_local": true,
-      "fecha": "2022-10-21T13:48:05+00:00"
-    },
-    {
-      "id": 2117,
-      "nombre": "OCTOPATH TRAVELER",
-      "url": "https://t.me/c/1634508656/2117",
-      "url_steam": "https://store.steampowered.com/app/921570/OCTOPATH_TRAVELER/",
-      "app_id": "921570",
       "imagen_local": true,
       "fecha": "2022-10-21T13:48:05+00:00"
     },
@@ -40114,24 +39016,6 @@
       "fecha": "2022-10-21T11:05:41+00:00"
     },
     {
-      "id": 540,
-      "nombre": "https://telegra.ph/file/01a88848487f4c0e82311.png)Furi",
-      "url": "https://t.me/c/1634508656/540",
-      "url_steam": null,
-      "app_id": null,
-      "imagen_local": true,
-      "fecha": "2022-10-21T11:05:41+00:00"
-    },
-    {
-      "id": 538,
-      "nombre": "https://telegra.ph/file/de006e7e1e79eb7314c4e.jpg)Beholgar",
-      "url": "https://t.me/c/1634508656/538",
-      "url_steam": null,
-      "app_id": null,
-      "imagen_local": true,
-      "fecha": "2022-10-21T11:05:41+00:00"
-    },
-    {
       "id": 536,
       "nombre": "Vagrant",
       "url": "https://t.me/c/1634508656/536",
@@ -40292,15 +39176,6 @@
       "app_id": null,
       "imagen_local": true,
       "fecha": "2022-10-21T11:01:20+00:00"
-    },
-    {
-      "id": 408,
-      "nombre": "Memory Infinite",
-      "url": "https://t.me/c/1634508656/408",
-      "url_steam": null,
-      "app_id": null,
-      "imagen_local": true,
-      "fecha": "2022-10-21T11:01:19+00:00"
     },
     {
       "id": 402,
@@ -40803,15 +39678,6 @@
       "url": "https://t.me/c/1634508656/84",
       "url_steam": "https://store.steampowered.com/app/1109690/Asterix__Obelix_XXL_3___The_Crystal_Menhir/",
       "app_id": "1109690",
-      "imagen_local": false,
-      "fecha": "2022-10-21T09:30:06+00:00"
-    },
-    {
-      "id": 81,
-      "nombre": "ART OF RALLY",
-      "url": "https://t.me/c/1634508656/81",
-      "url_steam": "https://store.steampowered.com/app/550320/art_of_rally/",
-      "app_id": "550320",
       "imagen_local": false,
       "fecha": "2022-10-21T09:30:06+00:00"
     },
