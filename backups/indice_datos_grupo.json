@@ -39653,8 +39653,60 @@
       "app_id": null,
       "imagen_local": true,
       "fecha": "2022-10-21T09:24:28+00:00"
+    },
+    {
+      "id": 37234,
+      "nombre": "KRISTALA",
+      "url": "https://t.me/c/1634508656/37234",
+      "url_steam": "https://store.steampowered.com/app/1206410",
+      "app_id": "1206410",
+      "imagen_local": false,
+      "fecha": "2026-04-28T06:04:52+00:00"
+    },
+    {
+      "id": 37224,
+      "nombre": "THE CREW™ 2",
+      "url": "https://t.me/c/1634508656/37224",
+      "url_steam": "https://store.steampowered.com/app/646910",
+      "app_id": "646910",
+      "imagen_local": false,
+      "fecha": "2026-04-28T06:04:52+00:00"
+    },
+    {
+      "id": 37219,
+      "nombre": "SUDDEN STRIKE 5",
+      "url": "https://t.me/c/1634508656/37219",
+      "url_steam": "https://store.steampowered.com/app/2808550",
+      "app_id": "2808550",
+      "imagen_local": true,
+      "fecha": "2026-04-28T06:04:52+00:00"
+    },
+    {
+      "id": 37215,
+      "nombre": "DAWN BREAK",
+      "url": "https://t.me/c/1634508656/37215",
+      "url_steam": "https://store.steampowered.com/app/3470610",
+      "app_id": "3470610",
+      "imagen_local": false,
+      "fecha": "2026-04-28T06:04:52+00:00"
+    },
+    {
+      "id": 37212,
+      "nombre": "DARKSWITCH",
+      "url": "https://t.me/c/1634508656/37212",
+      "url_steam": "https://store.steampowered.com/app/3132870",
+      "app_id": "3132870",
+      "imagen_local": false,
+      "fecha": "2026-04-28T06:04:51+00:00"
     }
   ],
-  "ultimo_id": 37193,
-  "chat_id": -1001634508656
+  "ultimo_id": 37234,
+  "chat_id": -1001634508656,
+  "ultimas_subidas": [
+    37219,
+    37224,
+    37234,
+    37212,
+    37215
+  ]
 }
