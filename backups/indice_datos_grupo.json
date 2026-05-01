@@ -39698,15 +39698,230 @@
       "app_id": "3132870",
       "imagen_local": false,
       "fecha": "2026-04-28T06:04:51+00:00"
+    },
+    {
+      "id": 37342,
+      "nombre": "MOUSE P.I. FOR HIRE",
+      "url": "https://t.me/c/1634508656/37342",
+      "url_steam": "https://store.steampowered.com/app/2416450/MOUSE_PI_For_Hire/",
+      "app_id": "2416450",
+      "imagen_local": false,
+      "fecha": "2026-05-01T14:18:42+00:00"
+    },
+    {
+      "id": 37338,
+      "nombre": "REANIMAL",
+      "url": "https://t.me/c/1634508656/37338",
+      "url_steam": "https://store.steampowered.com/app/2129530/REANIMAL/",
+      "app_id": "2129530",
+      "imagen_local": false,
+      "fecha": "2026-05-01T14:18:42+00:00"
+    },
+    {
+      "id": 37333,
+      "nombre": "PROJECT VESPERI",
+      "url": "https://t.me/c/1634508656/37333",
+      "url_steam": null,
+      "app_id": null,
+      "imagen_local": true,
+      "fecha": "2026-05-01T14:18:20+00:00"
+    },
+    {
+      "id": 37331,
+      "nombre": "MINOS",
+      "url": "https://t.me/c/1634508656/37331",
+      "url_steam": "https://store.steampowered.com/app/3181650/MINOS/",
+      "app_id": "3181650",
+      "imagen_local": true,
+      "fecha": "2026-05-01T14:18:20+00:00"
+    },
+    {
+      "id": 37324,
+      "nombre": "JOTUNNSLAYER HORDES OF HEL",
+      "url": "https://t.me/c/1634508656/37324",
+      "url_steam": "https://store.steampowered.com/app/2820820/Jotunnslayer_Hordes_of_Hel/",
+      "app_id": "2820820",
+      "imagen_local": false,
+      "fecha": "2026-05-01T14:18:20+00:00"
+    },
+    {
+      "id": 37322,
+      "nombre": "BALLXPIT",
+      "url": "https://t.me/c/1634508656/37322",
+      "url_steam": "https://store.steampowered.com/app/2062430/BALL_x_PIT/",
+      "app_id": "2062430",
+      "imagen_local": true,
+      "fecha": "2026-05-01T14:18:20+00:00"
+    },
+    {
+      "id": 37320,
+      "nombre": "STONESHARD**",
+      "url": "https://t.me/c/1634508656/37320",
+      "url_steam": "https://store.steampowered.com/app/625960/Stoneshard/",
+      "app_id": "625960",
+      "imagen_local": false,
+      "fecha": "2026-05-01T14:18:20+00:00"
+    },
+    {
+      "id": 37318,
+      "nombre": "REPTERRA Early Access**",
+      "url": "https://t.me/c/1634508656/37318",
+      "url_steam": "https://store.steampowered.com/app/2768380/Repterra/",
+      "app_id": "2768380",
+      "imagen_local": false,
+      "fecha": "2026-05-01T14:18:20+00:00"
+    },
+    {
+      "id": 37316,
+      "nombre": "CHAINSTAFF",
+      "url": "https://t.me/c/1634508656/37316",
+      "url_steam": "https://store.steampowered.com/app/2976260/ChainStaff/",
+      "app_id": "2976260",
+      "imagen_local": false,
+      "fecha": "2026-05-01T14:18:20+00:00"
+    },
+    {
+      "id": 37314,
+      "nombre": "OLD SKIES**",
+      "url": "https://t.me/c/1634508656/37314",
+      "url_steam": "https://store.steampowered.com/app/1346360/Old_Skies/",
+      "app_id": "1346360",
+      "imagen_local": false,
+      "fecha": "2026-05-01T14:18:20+00:00"
+    },
+    {
+      "id": 37310,
+      "nombre": "INVISIBLE VS**",
+      "url": "https://t.me/c/1634508656/37310",
+      "url_steam": "https://store.steampowered.com/app/2353060/Invincible_VS/",
+      "app_id": "2353060",
+      "imagen_local": true,
+      "fecha": "2026-05-01T14:18:19+00:00"
+    },
+    {
+      "id": 37308,
+      "nombre": "DEEP ROCK GALACTIC: SURVIVOR - HEAVY DUTY",
+      "url": "https://t.me/c/1634508656/37308",
+      "url_steam": "https://store.steampowered.com/app/2321470/Deep_Rock_Galactic_Survivor/",
+      "app_id": "2321470",
+      "imagen_local": false,
+      "fecha": "2026-05-01T14:18:19+00:00"
+    },
+    {
+      "id": 37305,
+      "nombre": "HEROES OF MIGHT AND MAGIC: OLDEN ERA**",
+      "url": "https://t.me/c/1634508656/37305",
+      "url_steam": "https://store.steampowered.com/app/3105440/Heroes_of_Might_and_Magic_Olden_Era/",
+      "app_id": "3105440",
+      "imagen_local": false,
+      "fecha": "2026-05-01T14:18:19+00:00"
+    },
+    {
+      "id": 37303,
+      "nombre": "THE SPELL BRIGADE**",
+      "url": "https://t.me/c/1634508656/37303",
+      "url_steam": "https://store.steampowered.com/app/2904000/The_Spell_Brigade/",
+      "app_id": "2904000",
+      "imagen_local": false,
+      "fecha": "2026-05-01T14:18:19+00:00"
+    },
+    {
+      "id": 37301,
+      "nombre": "HADEAN TACTICS**",
+      "url": "https://t.me/c/1634508656/37301",
+      "url_steam": "https://store.steampowered.com/app/1260590/Hadean_Tactics/",
+      "app_id": "1260590",
+      "imagen_local": false,
+      "fecha": "2026-05-01T14:18:19+00:00"
+    },
+    {
+      "id": 37299,
+      "nombre": "APES WARFARE**",
+      "url": "https://t.me/c/1634508656/37299",
+      "url_steam": "https://store.steampowered.com/app/3266580/Apes_Warfare/",
+      "app_id": "3266580",
+      "imagen_local": false,
+      "fecha": "2026-05-01T14:18:19+00:00"
+    },
+    {
+      "id": 37264,
+      "nombre": "BLACK MYTH: WUKONG DELUXE EDITION **",
+      "url": "https://t.me/c/1634508656/37264",
+      "url_steam": "https://store.steampowered.com/app/2358720/Black_Myth_Wukong/",
+      "app_id": "2358720",
+      "imagen_local": false,
+      "fecha": "2026-05-01T14:18:18+00:00"
+    },
+    {
+      "id": 37258,
+      "nombre": "COMMANDOS: ORIGINS**",
+      "url": "https://t.me/c/1634508656/37258",
+      "url_steam": "https://store.steampowered.com/app/4172650/Commandos_Origins__No_Man_Left_Behind/",
+      "app_id": "4172650",
+      "imagen_local": true,
+      "fecha": "2026-05-01T14:18:18+00:00"
+    },
+    {
+      "id": 37250,
+      "nombre": "APHELION**",
+      "url": "https://t.me/c/1634508656/37250",
+      "url_steam": "https://store.steampowered.com/app/1966410/Aphelion/",
+      "app_id": "1966410",
+      "imagen_local": true,
+      "fecha": "2026-05-01T14:18:18+00:00"
+    },
+    {
+      "id": 37242,
+      "nombre": "MOTOGP™26**",
+      "url": "https://t.me/c/1634508656/37242",
+      "url_steam": "https://store.steampowered.com/app/3875050/MotoGP26/",
+      "app_id": "3875050",
+      "imagen_local": true,
+      "fecha": "2026-05-01T14:18:17+00:00"
+    },
+    {
+      "id": 37240,
+      "nombre": "BAD BOY BROTHER",
+      "url": "https://t.me/c/1634508656/37240",
+      "url_steam": "https://store.steampowered.com/app/2911070/BAD_BOY_BROTHER/",
+      "app_id": "2911070",
+      "imagen_local": true,
+      "fecha": "2026-05-01T14:18:17+00:00"
+    },
+    {
+      "id": 37238,
+      "nombre": "ÍNDICE**](",
+      "url": "https://t.me/c/1634508656/37238",
+      "url_steam": null,
+      "app_id": null,
+      "imagen_local": true,
+      "fecha": "2026-04-29T08:47:30+00:00"
     }
   ],
-  "ultimo_id": 37234,
+  "ultimo_id": 37342,
   "chat_id": -1001634508656,
   "ultimas_subidas": [
-    37219,
-    37224,
-    37234,
-    37212,
-    37215
+    37250,
+    37258,
+    37264,
+    37299,
+    37301,
+    37303,
+    37305,
+    37308,
+    37310,
+    37314,
+    37316,
+    37318,
+    37320,
+    37322,
+    37324,
+    37331,
+    37333,
+    37338,
+    37342,
+    37238,
+    37240,
+    37242
   ]
 }
