@@ -36677,7 +36677,7 @@
     },
     {
       "id": 3638,
-      "nombre": "Info Steam 🕹 - https://store.steampowered.com/app/1363680/FALLING_OUT/",
+      "nombre": "FALLING OUT",
       "url": "https://t.me/c/1634508656/3638",
       "url_steam": "https://store.steampowered.com/app/1363680/FALLING_OUT/",
       "app_id": "1363680",
@@ -39887,15 +39887,6 @@
       "app_id": "2911070",
       "imagen_local": true,
       "fecha": "2026-05-01T14:18:17+00:00"
-    },
-    {
-      "id": 37238,
-      "nombre": "ÍNDICE**](",
-      "url": "https://t.me/c/1634508656/37238",
-      "url_steam": null,
-      "app_id": null,
-      "imagen_local": true,
-      "fecha": "2026-04-29T08:47:30+00:00"
     }
   ],
   "ultimo_id": 37342,
@@ -39920,7 +39911,6 @@
     37333,
     37338,
     37342,
-    37238,
     37240,
     37242
   ]
