@@ -49493,7 +49493,7 @@ body {
 
 <div class="footer">
     <span>SDCS · 4,432 juegos</span>
-    <span>Actualizado · 06/05/26 · 17:35</span>
+    <span>Actualizado · 07/05/26 · 00:13</span>
 </div>
 
 <button class="btn-arriba" id="btnArriba" title="Subir arriba">↑</button>
@@ -49588,7 +49588,7 @@ async function abrirModal(card) {
         
         try {
             const url = `https://store.steampowered.com/api/appdetails?appids=${appId}&l=spanish`;
-            const proxyUrl = `https://corsproxy.io/?${encodeURIComponent(url)}`;
+            const proxyUrl = `https://corsproxy.io/?url=${encodeURIComponent(url)}`;
             const r = await fetch(proxyUrl);
             const data = await r.json();
             const juego = data[appId]?.data;
