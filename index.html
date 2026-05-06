@@ -195,15 +195,35 @@ body {
     gap: 4px; padding: 4px; background: #0d1117;
     flex-shrink: 0;
 }
+.modal-imagen video {
+    width: 100%; height: 100%;
+    object-fit: contain;
+    background: #000;
+}
 .modal-thumb {
     aspect-ratio: 16/9;
     background-size: cover; background-position: center;
     border-radius: 4px; cursor: pointer;
     opacity: 0.6; transition: opacity 0.15s;
     border: 2px solid transparent;
+    position: relative;
 }
 .modal-thumb:hover { opacity: 0.9; }
 .modal-thumb.activo { opacity: 1; border-color: #00d4aa; }
+.modal-thumb-play {
+    position: absolute; inset: 0;
+    display: flex; align-items: center; justify-content: center;
+    pointer-events: none;
+}
+.modal-thumb-play::before {
+    content: ''; display: block;
+    width: 0; height: 0;
+    border-left: 14px solid white;
+    border-top: 9px solid transparent;
+    border-bottom: 9px solid transparent;
+    margin-left: 4px;
+    filter: drop-shadow(0 0 4px rgba(0,0,0,0.8));
+}
 .modal-info {
     padding: 18px 20px;
     overflow-y: auto;
@@ -49473,7 +49493,7 @@ body {
 
 <div class="footer">
     <span>SDCS · 4,432 juegos</span>
-    <span>Actualizado · 05/05/26 · 00:20</span>
+    <span>Actualizado · 06/05/26 · 17:35</span>
 </div>
 
 <button class="btn-arriba" id="btnArriba" title="Subir arriba">↑</button>
@@ -49484,8 +49504,8 @@ body {
         <button class="modal-cerrar" onclick="cerrarModal()">×</button>
         <div class="modal-imagen" id="modalImagen">
             <div class="modal-imagen-titulo" id="modalImagenTitulo"></div>
-            <button class="modal-flecha modal-flecha-izq" id="modalFlechaIzq" onclick="cambiarScreenshot(-1)">‹</button>
-            <button class="modal-flecha modal-flecha-der" id="modalFlechaDer" onclick="cambiarScreenshot(1)">›</button>
+            <button class="modal-flecha modal-flecha-izq" id="modalFlechaIzq" onclick="cambiarItem(-1)">‹</button>
+            <button class="modal-flecha modal-flecha-der" id="modalFlechaDer" onclick="cambiarItem(1)">›</button>
         </div>
         <div class="modal-thumbnails" id="modalThumbnails"></div>
         <div class="modal-info">
@@ -49515,6 +49535,8 @@ body {
 <script>
 let screenshots_actuales = [];
 let screenshot_index = 0;
+let items_modal = []; // mezcla de videos + screenshots
+let item_index = 0;
 
 async function abrirModal(card) {
     const appId = card.dataset.appId;
@@ -49530,9 +49552,17 @@ async function abrirModal(card) {
     document.getElementById('modalMeta').innerHTML = '';
     document.getElementById('modalThumbnails').innerHTML = '';
     
+    items_modal = [];
+    item_index = 0;
+    
     // Imagen inicial: la caratula
     const imagenEl = document.getElementById('modalImagen');
     const tituloEl = document.getElementById('modalImagenTitulo');
+    
+    // Limpiar cualquier video previo
+    const videoExistente = imagenEl.querySelector('video');
+    if (videoExistente) videoExistente.remove();
+    
     if (img) {
         imagenEl.style.backgroundImage = `url('${img}')`;
         tituloEl.style.display = 'none';
@@ -49591,26 +49621,46 @@ async function abrirModal(card) {
                 if (juego.platforms?.linux) meta.push('🐧 Linux/SteamOS');
                 document.getElementById('modalMeta').innerHTML = meta.map(m => `<span>${m}</span>`).join('');
                 
-                // Screenshots
-                if (juego.screenshots?.length) {
-                    screenshots_actuales = juego.screenshots.slice(0, 4);
-                    screenshot_index = 0;
-                    
-                    // Imagen principal: primer screenshot
-                    if (screenshots_actuales[0]) {
-                        imagenEl.style.backgroundImage = `url('${screenshots_actuales[0].path_full}')`;
-                        tituloEl.style.display = 'none';
+                // Construir lista de items (videos primero, luego screenshots)
+                const videos = juego.movies || [];
+                const screenshots = juego.screenshots || [];
+                
+                // Anadir videos
+                videos.forEach(v => {
+                    const videoUrl = v.mp4?.['480'] || v.mp4?.max || v.webm?.['480'] || v.webm?.max;
+                    if (videoUrl) {
+                        items_modal.push({
+                            tipo: 'video',
+                            videoUrl: videoUrl,
+                            thumb: v.thumbnail || ''
+                        });
                     }
+                });
+                
+                // Anadir screenshots (limitar a 6 si hay videos, sino 8)
+                const limiteScreenshots = videos.length > 0 ? 6 : 8;
+                screenshots.slice(0, limiteScreenshots).forEach(s => {
+                    items_modal.push({
+                        tipo: 'imagen',
+                        full: s.path_full,
+                        thumb: s.path_thumbnail
+                    });
+                });
+                
+                if (items_modal.length > 0) {
+                    item_index = 0;
+                    mostrarItem(0);
                     
                     // Thumbnails
-                    const thumbsHtml = screenshots_actuales.map((s, i) => {
+                    const thumbsHtml = items_modal.map((it, i) => {
                         const cls = i === 0 ? 'modal-thumb activo' : 'modal-thumb';
-                        return `<div class="${cls}" style="background-image: url('${s.path_thumbnail}')" onclick="seleccionarScreenshot(${i})"></div>`;
+                        const playOverlay = it.tipo === 'video' ? '<div class="modal-thumb-play"></div>' : '';
+                        return `<div class="${cls}" style="background-image: url('${it.thumb}')" onclick="seleccionarItem(${i})">${playOverlay}</div>`;
                     }).join('');
                     document.getElementById('modalThumbnails').innerHTML = thumbsHtml;
                     
                     // Mostrar flechas si hay mas de 1
-                    if (screenshots_actuales.length > 1) {
+                    if (items_modal.length > 1) {
                         document.getElementById('modalFlechaIzq').style.display = 'flex';
                         document.getElementById('modalFlechaDer').style.display = 'flex';
                     }
@@ -49625,36 +49675,81 @@ async function abrirModal(card) {
     }
 }
 
-function cerrarModal() {
-    document.getElementById('modalOverlay').classList.remove('activo');
-    document.body.style.overflow = '';
-    screenshots_actuales = [];
-    screenshot_index = 0;
-}
-
-function seleccionarScreenshot(idx) {
-    if (!screenshots_actuales.length) return;
-    screenshot_index = idx;
-    const s = screenshots_actuales[idx];
-    document.getElementById('modalImagen').style.backgroundImage = `url('${s.path_full}')`;
+function mostrarItem(idx) {
+    if (!items_modal.length) return;
+    item_index = idx;
+    const it = items_modal[idx];
+    const imagenEl = document.getElementById('modalImagen');
+    const tituloEl = document.getElementById('modalImagenTitulo');
+    
+    // Limpiar video previo si existe
+    const videoExistente = imagenEl.querySelector('video');
+    if (videoExistente) videoExistente.remove();
+    
+    tituloEl.style.display = 'none';
+    
+    if (it.tipo === 'video') {
+        // Crear elemento video con poster (thumbnail) y controles
+        // SIN autoplay - el usuario decide
+        imagenEl.style.backgroundImage = '';
+        const video = document.createElement('video');
+        video.src = it.videoUrl;
+        video.poster = it.thumb;
+        video.controls = true;
+        video.preload = 'none'; // No precargar para ahorrar datos
+        video.style.width = '100%';
+        video.style.height = '100%';
+        video.style.objectFit = 'contain';
+        video.style.background = '#000';
+        // Insertar antes de las flechas
+        const flechaIzq = document.getElementById('modalFlechaIzq');
+        imagenEl.insertBefore(video, flechaIzq);
+    } else {
+        imagenEl.style.backgroundImage = `url('${it.full}')`;
+    }
+    
+    // Actualizar thumbnails activos
     document.querySelectorAll('.modal-thumb').forEach((t, i) => {
         t.classList.toggle('activo', i === idx);
     });
 }
 
-function cambiarScreenshot(dir) {
-    if (!screenshots_actuales.length) return;
-    let nuevo = screenshot_index + dir;
-    if (nuevo < 0) nuevo = screenshots_actuales.length - 1;
-    if (nuevo >= screenshots_actuales.length) nuevo = 0;
-    seleccionarScreenshot(nuevo);
+function seleccionarItem(idx) {
+    mostrarItem(idx);
+}
+
+function cambiarItem(dir) {
+    if (!items_modal.length) return;
+    let nuevo = item_index + dir;
+    if (nuevo < 0) nuevo = items_modal.length - 1;
+    if (nuevo >= items_modal.length) nuevo = 0;
+    mostrarItem(nuevo);
+}
+
+// Compatibilidad antigua (por si quedan llamadas)
+function seleccionarScreenshot(idx) { seleccionarItem(idx); }
+function cambiarScreenshot(dir) { cambiarItem(dir); }
+
+function cerrarModal() {
+    // Detener cualquier video que este reproduciendose
+    const video = document.getElementById('modalImagen').querySelector('video');
+    if (video) {
+        video.pause();
+        video.remove();
+    }
+    document.getElementById('modalOverlay').classList.remove('activo');
+    document.body.style.overflow = '';
+    items_modal = [];
+    item_index = 0;
+    screenshots_actuales = [];
+    screenshot_index = 0;
 }
 
 // Cerrar con tecla Escape
 document.addEventListener('keydown', (e) => {
     if (e.key === 'Escape') cerrarModal();
-    if (e.key === 'ArrowLeft' && screenshots_actuales.length) cambiarScreenshot(-1);
-    if (e.key === 'ArrowRight' && screenshots_actuales.length) cambiarScreenshot(1);
+    if (e.key === 'ArrowLeft' && items_modal.length) cambiarItem(-1);
+    if (e.key === 'ArrowRight' && items_modal.length) cambiarItem(1);
 });
 </script>
 
