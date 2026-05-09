@@ -223498,23 +223498,67 @@
           }
         ]
       }
+    },
+    {
+      "id": 37412,
+      "nombre": "STELLAR BLADE COMPLETE EDITION ™",
+      "url": "https://t.me/c/1634508656/37412",
+      "url_steam": "https://store.steampowered.com/app/3489700/Stellar_Blade/",
+      "app_id": "3489700",
+      "imagen_local": false,
+      "fecha": "2026-05-09T15:03:06+00:00",
+      "steam_info": {
+        "subtitulo": "11 JUN 2025 · SHIFT UP Corporation",
+        "generos": [
+          "Acción",
+          "Aventura",
+          "Rol"
+        ],
+        "descripcion": "Evita la extinción de la raza humana en este juego de acción-aventura postapocalíptico: Stellar Blade™. Disfruta de combates feroces y una historia intrigante mientras resuelves los misterios que llevaron a la caída de la Tierra.",
+        "plataformas": [
+          "Windows"
+        ],
+        "screenshots": [
+          {
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489700/ss_4291827e357008499d4d5a17bc50d3e93869dd43.600x338.jpg?t=1776466244",
+            "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489700/ss_4291827e357008499d4d5a17bc50d3e93869dd43.1920x1080.jpg?t=1776466244"
+          },
+          {
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489700/ss_9d4d62e118a167333d53db94354671e10416b25d.600x338.jpg?t=1776466244",
+            "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489700/ss_9d4d62e118a167333d53db94354671e10416b25d.1920x1080.jpg?t=1776466244"
+          },
+          {
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489700/ss_bcb3946482dc5a1221c024098d2ac09e80255f3e.600x338.jpg?t=1776466244",
+            "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489700/ss_bcb3946482dc5a1221c024098d2ac09e80255f3e.1920x1080.jpg?t=1776466244"
+          },
+          {
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489700/ss_1ae903bf4153fa2c2b3ee4381eb355532ba79eab.600x338.jpg?t=1776466244",
+            "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489700/ss_1ae903bf4153fa2c2b3ee4381eb355532ba79eab.1920x1080.jpg?t=1776466244"
+          },
+          {
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489700/ss_0a156afe90170ba75773a6fe901153c4dd318980.600x338.jpg?t=1776466244",
+            "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489700/ss_0a156afe90170ba75773a6fe901153c4dd318980.1920x1080.jpg?t=1776466244"
+          },
+          {
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489700/ss_590074c0cfa8c7098358a128f656b0198af8f0be.600x338.jpg?t=1776466244",
+            "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489700/ss_590074c0cfa8c7098358a128f656b0198af8f0be.1920x1080.jpg?t=1776466244"
+          }
+        ],
+        "videos": [
+          {
+            "url": "https://cdn.akamai.steamstatic.com/steam/apps/257154206/movie480.mp4",
+            "url_max": "https://cdn.akamai.steamstatic.com/steam/apps/257154206/movie_max.mp4",
+            "url_webm": "https://cdn.akamai.steamstatic.com/steam/apps/257154206/movie480_vp9.webm",
+            "url_hls": "https://video.akamai.steamstatic.com/store_trailers/3489700/2090056095/b477a4d790ad0e1220c483843f85ce518cf9b2df/1750826285/hls_264_master.m3u8?t=1749678668",
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257154206/1075aa34dc2b29a057a697fe443d752c3e80418e/movie_600x337.jpg?t=1749678668"
+          }
+        ]
+      }
     }
   ],
-  "ultimo_id": 37400,
+  "ultimo_id": 37412,
   "chat_id": -1001634508656,
   "ultimas_subidas": [
-    37346,
-    37378,
-    37348,
-    37350,
-    37385,
-    37354,
-    37356,
-    37358,
-    37394,
-    37366,
-    37400,
-    37369,
-    37372
+    37412
   ]
 }
