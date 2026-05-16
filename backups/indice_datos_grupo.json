@@ -24175,7 +24175,7 @@
       "url": "https://t.me/c/1634508656/34339",
       "url_steam": "https://store.steampowered.com/app/2543510/GUNTOUCHABLES/",
       "app_id": "2543510",
-      "imagen_local": false,
+      "imagen_local": true,
       "fecha": "2025-08-30T10:57:39+00:00",
       "steam_info": {
         "subtitulo": "7 AGO 2025 · Game Swing",
@@ -219325,7 +219325,7 @@
     },
     {
       "id": 833,
-      "nombre": "Kelipot",
+      "nombre": "KELIPOT",
       "url": "https://t.me/c/1634508656/833",
       "url_steam": null,
       "app_id": null,
@@ -219685,7 +219685,7 @@
     },
     {
       "id": 605,
-      "nombre": "Abyss",
+      "nombre": "NEON ABYSS",
       "url": "https://t.me/c/1634508656/605",
       "url_steam": null,
       "app_id": null,
@@ -219721,16 +219721,16 @@
     },
     {
       "id": 595,
-      "nombre": "Hell",
+      "nombre": "RISING HELL",
       "url": "https://t.me/c/1634508656/595",
-      "url_steam": null,
-      "app_id": null,
+      "url_steam": "https://store.steampowered.com/app/657000/Rising_Hell/",
+      "app_id": "657000",
       "imagen_local": true,
       "fecha": "2022-10-21T11:05:44+00:00"
     },
     {
       "id": 593,
-      "nombre": "Revita",
+      "nombre": "REVITA",
       "url": "https://t.me/c/1634508656/593",
       "url_steam": null,
       "app_id": null,
@@ -223746,8 +223746,8 @@
       "id": 37472,
       "nombre": "UNDERLING UPRISING",
       "url": "https://t.me/c/1634508656/37472",
-      "url_steam": null,
-      "app_id": null,
+      "url_steam": "https://store.steampowered.com/app/1896760/Underling_Uprising/",
+      "app_id": "1896760",
       "imagen_local": true,
       "fecha": "2026-05-16T08:21:19+00:00"
     },
