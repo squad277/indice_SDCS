@@ -219726,7 +219726,56 @@
       "url_steam": "https://store.steampowered.com/app/657000/Rising_Hell/",
       "app_id": "657000",
       "imagen_local": true,
-      "fecha": "2022-10-21T11:05:44+00:00"
+      "fecha": "2022-10-21T11:05:44+00:00",
+      "steam_info": {
+        "subtitulo": "19 MAY 2021 · Tahoe Games",
+        "generos": [
+          "Acción",
+          "Indie"
+        ],
+        "descripcion": "Rising Hell es un plataformas rogue-lite vertical repleto de acción adrenalínica y toneladas de metal gótico. Asciende del siempre cambiante Infierno mientras te enfrentas a hordas de demonios sedientos de sangre.",
+        "plataformas": [
+          "Windows"
+        ],
+        "screenshots": [
+          {
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/657000/ss_d9f4250ed39d0713224e39980207ffdc398f69c7.600x338.jpg?t=1744190622",
+            "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/657000/ss_d9f4250ed39d0713224e39980207ffdc398f69c7.1920x1080.jpg?t=1744190622"
+          },
+          {
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/657000/ss_16fcf39570b4d004cb9101f9f5995f8619771e55.600x338.jpg?t=1744190622",
+            "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/657000/ss_16fcf39570b4d004cb9101f9f5995f8619771e55.1920x1080.jpg?t=1744190622"
+          },
+          {
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/657000/ss_970ed8da2abbd78ce72cbdf60d43a7a95034c674.600x338.jpg?t=1744190622",
+            "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/657000/ss_970ed8da2abbd78ce72cbdf60d43a7a95034c674.1920x1080.jpg?t=1744190622"
+          },
+          {
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/657000/ss_30a7fa33ee692ef2d1485fb06c711168fff139c0.600x338.jpg?t=1744190622",
+            "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/657000/ss_30a7fa33ee692ef2d1485fb06c711168fff139c0.1920x1080.jpg?t=1744190622"
+          },
+          {
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/657000/ss_d2962197158454047da8721445425293ea30fe04.600x338.jpg?t=1744190622",
+            "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/657000/ss_d2962197158454047da8721445425293ea30fe04.1920x1080.jpg?t=1744190622"
+          }
+        ],
+        "videos": [
+          {
+            "url": "https://cdn.akamai.steamstatic.com/steam/apps/256764786/movie480.mp4",
+            "url_max": "https://cdn.akamai.steamstatic.com/steam/apps/256764786/movie_max.mp4",
+            "url_webm": "https://cdn.akamai.steamstatic.com/steam/apps/256764786/movie480_vp9.webm",
+            "url_hls": "https://video.akamai.steamstatic.com/store_trailers/657000/248359/a08a9dfa9ada4b93ed7111b6f77ee36b7a216971/1750567542/hls_264_master.m3u8?t=1588679522",
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256764786/movie.293x165.jpg?t=1588679522"
+          },
+          {
+            "url": "https://cdn.akamai.steamstatic.com/steam/apps/256829015/movie480.mp4",
+            "url_max": "https://cdn.akamai.steamstatic.com/steam/apps/256829015/movie_max.mp4",
+            "url_webm": "https://cdn.akamai.steamstatic.com/steam/apps/256829015/movie480_vp9.webm",
+            "url_hls": "https://video.akamai.steamstatic.com/store_trailers/657000/359357/ac429c9dd86f7fcaa2fadfac79c431508bf1e587/1750567545/hls_264_master.m3u8?t=1617772848",
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256829015/movie.293x165.jpg?t=1617772848"
+          }
+        ]
+      }
     },
     {
       "id": 593,
@@ -223749,7 +223798,53 @@
       "url_steam": "https://store.steampowered.com/app/1896760/Underling_Uprising/",
       "app_id": "1896760",
       "imagen_local": true,
-      "fecha": "2026-05-16T08:21:19+00:00"
+      "fecha": "2026-05-16T08:21:19+00:00",
+      "steam_info": {
+        "subtitulo": "14 MAY 2026 · Dummy Dojo",
+        "generos": [
+          "Acción",
+          "Indie"
+        ],
+        "descripcion": "¡Revive la gloria de los dibujos animados de los 90 en este vibrante Beat 'Em Up! Desata los poderes de los Underlings en emocionantes batallas cooperativas de 1 a 4 jugadores. ¡Lucha por todo el mundo, domina tus habilidades y vèngate del científico loco que te creó!",
+        "plataformas": [
+          "Windows"
+        ],
+        "screenshots": [
+          {
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1896760/f375f2122dbfbfb6de28763f524ceb76c3ac244c/ss_f375f2122dbfbfb6de28763f524ceb76c3ac244c.600x338.jpg?t=1778839092",
+            "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1896760/f375f2122dbfbfb6de28763f524ceb76c3ac244c/ss_f375f2122dbfbfb6de28763f524ceb76c3ac244c.1920x1080.jpg?t=1778839092"
+          },
+          {
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1896760/f3b30cb9f6a2c31380829d115ba973dd9b5ead3d/ss_f3b30cb9f6a2c31380829d115ba973dd9b5ead3d.600x338.jpg?t=1778839092",
+            "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1896760/f3b30cb9f6a2c31380829d115ba973dd9b5ead3d/ss_f3b30cb9f6a2c31380829d115ba973dd9b5ead3d.1920x1080.jpg?t=1778839092"
+          },
+          {
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1896760/e0ef27d401a9b90a1cc51c2cf763fa9885b0b915/ss_e0ef27d401a9b90a1cc51c2cf763fa9885b0b915.600x338.jpg?t=1778839092",
+            "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1896760/e0ef27d401a9b90a1cc51c2cf763fa9885b0b915/ss_e0ef27d401a9b90a1cc51c2cf763fa9885b0b915.1920x1080.jpg?t=1778839092"
+          },
+          {
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1896760/7118d04fc22031545cb70afdef72e33dae44040e/ss_7118d04fc22031545cb70afdef72e33dae44040e.600x338.jpg?t=1778839092",
+            "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1896760/7118d04fc22031545cb70afdef72e33dae44040e/ss_7118d04fc22031545cb70afdef72e33dae44040e.1920x1080.jpg?t=1778839092"
+          },
+          {
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1896760/0be9aa9fdf259a26e9d6a615565debb8f7460548/ss_0be9aa9fdf259a26e9d6a615565debb8f7460548.600x338.jpg?t=1778839092",
+            "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1896760/0be9aa9fdf259a26e9d6a615565debb8f7460548/ss_0be9aa9fdf259a26e9d6a615565debb8f7460548.1920x1080.jpg?t=1778839092"
+          },
+          {
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1896760/cdad33c6d9093327e03df9648bf1cb39c9b1ba5c/ss_cdad33c6d9093327e03df9648bf1cb39c9b1ba5c.600x338.jpg?t=1778839092",
+            "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1896760/cdad33c6d9093327e03df9648bf1cb39c9b1ba5c/ss_cdad33c6d9093327e03df9648bf1cb39c9b1ba5c.1920x1080.jpg?t=1778839092"
+          }
+        ],
+        "videos": [
+          {
+            "url": "https://cdn.akamai.steamstatic.com/steam/apps/257318883/movie480.mp4",
+            "url_max": "https://cdn.akamai.steamstatic.com/steam/apps/257318883/movie_max.mp4",
+            "url_webm": "https://cdn.akamai.steamstatic.com/steam/apps/257318883/movie480_vp9.webm",
+            "url_hls": "https://video.akamai.steamstatic.com/store_trailers/1896760/610990764/d6606abc3a706b5e91e1e243254a94351bc711e2/1776082560/hls_264_master.m3u8?t=1776082903",
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257318883/824397cbc15b4fc4cb128d09581fc119320dec8a/movie_600x337.jpg?t=1776082903"
+          }
+        ]
+      }
     },
     {
       "id": 37468,
