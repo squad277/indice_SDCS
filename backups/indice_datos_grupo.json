@@ -233205,29 +233205,956 @@
           }
         ]
       }
+    },
+    {
+      "id": 38948,
+      "nombre": "CAPTAIN TSUBASA II - WORLD FIGHTERS",
+      "url": "https://t.me/c/1634508656/38948",
+      "url_steam": "https://store.steampowered.com/app/2172910/CAPTAIN_TSUBASA_2_WORLD_FIGHTERS/",
+      "app_id": "2172910",
+      "imagen_local": true,
+      "fecha": "2026-08-29T10:49:43+00:00",
+      "steam_info": {
+        "subtitulo": "27 AGO 2026 · TAMSOFT CORPORATION",
+        "generos": [
+          "Acción",
+          "Deportes"
+        ],
+        "descripcion": "¡Ya está aquí el nuevo capítulo de la cautivadora aventura de Tsubasa! Disfruta de una acción futbolística espectacular con 110 personajes disponibles y nuevos supermovimientos alucinantes. Desafía a amigos en el campo o apoya a Tsubasa en su viaje. ¡El balón es tu amigo!",
+        "plataformas": [
+          "Windows"
+        ],
+        "screenshots": [
+          {
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2172910/21cc5dd8ea39ee7fc761fd17ee8fae9dbea5bf67/ss_21cc5dd8ea39ee7fc761fd17ee8fae9dbea5bf67.600x338.jpg?t=1788135682",
+            "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2172910/21cc5dd8ea39ee7fc761fd17ee8fae9dbea5bf67/ss_21cc5dd8ea39ee7fc761fd17ee8fae9dbea5bf67.1920x1080.jpg?t=1788135682"
+          },
+          {
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2172910/ca4061970f5959a5f0798c81bb2ae635cc0a8129/ss_ca4061970f5959a5f0798c81bb2ae635cc0a8129.600x338.jpg?t=1788135682",
+            "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2172910/ca4061970f5959a5f0798c81bb2ae635cc0a8129/ss_ca4061970f5959a5f0798c81bb2ae635cc0a8129.1920x1080.jpg?t=1788135682"
+          },
+          {
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2172910/cd017a9b173358fd451e9154ac0fd6f871cef668/ss_cd017a9b173358fd451e9154ac0fd6f871cef668.600x338.jpg?t=1788135682",
+            "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2172910/cd017a9b173358fd451e9154ac0fd6f871cef668/ss_cd017a9b173358fd451e9154ac0fd6f871cef668.1920x1080.jpg?t=1788135682"
+          },
+          {
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2172910/6d58bf21dc8291d80b2961f2b206aac0ed1e49c2/ss_6d58bf21dc8291d80b2961f2b206aac0ed1e49c2.600x338.jpg?t=1788135682",
+            "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2172910/6d58bf21dc8291d80b2961f2b206aac0ed1e49c2/ss_6d58bf21dc8291d80b2961f2b206aac0ed1e49c2.1920x1080.jpg?t=1788135682"
+          },
+          {
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2172910/0f1e254d727a9aaeec84dc842eaa0830d5e39d79/ss_0f1e254d727a9aaeec84dc842eaa0830d5e39d79.600x338.jpg?t=1788135682",
+            "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2172910/0f1e254d727a9aaeec84dc842eaa0830d5e39d79/ss_0f1e254d727a9aaeec84dc842eaa0830d5e39d79.1920x1080.jpg?t=1788135682"
+          },
+          {
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2172910/0e4960f9fd8de80c5caeffcc6c778c7576816d37/ss_0e4960f9fd8de80c5caeffcc6c778c7576816d37.600x338.jpg?t=1788135682",
+            "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2172910/0e4960f9fd8de80c5caeffcc6c778c7576816d37/ss_0e4960f9fd8de80c5caeffcc6c778c7576816d37.1920x1080.jpg?t=1788135682"
+          }
+        ],
+        "videos": [
+          {
+            "url": "https://cdn.akamai.steamstatic.com/steam/apps/257410979/movie480.mp4",
+            "url_max": "https://cdn.akamai.steamstatic.com/steam/apps/257410979/movie_max.mp4",
+            "url_webm": "https://cdn.akamai.steamstatic.com/steam/apps/257410979/movie480_vp9.webm",
+            "url_hls": "https://video.akamai.steamstatic.com/store_trailers/2172910/1623039131/b3bcf6baba8fc6c7b2667b2e77faf87ff2cbaa08/1787908613/hls_264_master.m3u8?t=1788135677",
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257410979/461b39b71b9f60c5a0ebbb42463b72d57f3bdb39/movie_600x337.jpg?t=1788135677"
+          },
+          {
+            "url": "https://cdn.akamai.steamstatic.com/steam/apps/257409895/movie480.mp4",
+            "url_max": "https://cdn.akamai.steamstatic.com/steam/apps/257409895/movie_max.mp4",
+            "url_webm": "https://cdn.akamai.steamstatic.com/steam/apps/257409895/movie480_vp9.webm",
+            "url_hls": "https://video.akamai.steamstatic.com/store_trailers/2172910/1567606449/a7f92decd3ef372714d772a60b91df2cc2609b64/1787809401/hls_264_master.m3u8?t=1788135680",
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257409895/461b39b71b9f60c5a0ebbb42463b72d57f3bdb39/movie_600x337.jpg?t=1788135680"
+          }
+        ]
+      }
+    },
+    {
+      "id": 38932,
+      "nombre": "ALIENS: FIRETEAM ELITE 2",
+      "url": "https://t.me/c/1634508656/38932",
+      "url_steam": "https://store.steampowered.com/app/3448650/Aliens_Fireteam_Elite_2/",
+      "app_id": "3448650",
+      "imagen_local": true,
+      "fecha": "2026-08-29T10:49:43+00:00",
+      "steam_info": {
+        "subtitulo": "25 AGO 2026 · Cold Iron Studios",
+        "generos": [
+          "Acción"
+        ],
+        "descripcion": "Esto no es una misión de rescate: es una lucha por la supervivencia. Los xenomorfos acechan por los pasillos, emboscan desde las sombras y atacan en enjambres abrumadores. Cada sala podría ser la última.",
+        "plataformas": [
+          "Windows"
+        ],
+        "screenshots": [
+          {
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3448650/48e10e0c714479155fd3de7916fb70d666599bac/ss_48e10e0c714479155fd3de7916fb70d666599bac.600x338.jpg?t=1787772466",
+            "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3448650/48e10e0c714479155fd3de7916fb70d666599bac/ss_48e10e0c714479155fd3de7916fb70d666599bac.1920x1080.jpg?t=1787772466"
+          },
+          {
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3448650/d94d91fc046687b02ec98e03176b6b881706bf1f/ss_d94d91fc046687b02ec98e03176b6b881706bf1f.600x338.jpg?t=1787772466",
+            "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3448650/d94d91fc046687b02ec98e03176b6b881706bf1f/ss_d94d91fc046687b02ec98e03176b6b881706bf1f.1920x1080.jpg?t=1787772466"
+          },
+          {
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3448650/dabe4c3f28114786f14a443cd38585d732ea857f/ss_dabe4c3f28114786f14a443cd38585d732ea857f.600x338.jpg?t=1787772466",
+            "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3448650/dabe4c3f28114786f14a443cd38585d732ea857f/ss_dabe4c3f28114786f14a443cd38585d732ea857f.1920x1080.jpg?t=1787772466"
+          },
+          {
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3448650/17ebf7c36f98ef79b18d2e158c78937d4beffb43/ss_17ebf7c36f98ef79b18d2e158c78937d4beffb43.600x338.jpg?t=1787772466",
+            "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3448650/17ebf7c36f98ef79b18d2e158c78937d4beffb43/ss_17ebf7c36f98ef79b18d2e158c78937d4beffb43.1920x1080.jpg?t=1787772466"
+          },
+          {
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3448650/a7e6b59d6c47d3811bbadb489d77a410ff43bf97/ss_a7e6b59d6c47d3811bbadb489d77a410ff43bf97.600x338.jpg?t=1787772466",
+            "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3448650/a7e6b59d6c47d3811bbadb489d77a410ff43bf97/ss_a7e6b59d6c47d3811bbadb489d77a410ff43bf97.1920x1080.jpg?t=1787772466"
+          }
+        ],
+        "videos": [
+          {
+            "url": "https://cdn.akamai.steamstatic.com/steam/apps/257408251/movie480.mp4",
+            "url_max": "https://cdn.akamai.steamstatic.com/steam/apps/257408251/movie_max.mp4",
+            "url_webm": "https://cdn.akamai.steamstatic.com/steam/apps/257408251/movie480_vp9.webm",
+            "url_hls": "https://video.akamai.steamstatic.com/store_trailers/3448650/390312809/925e7e8f705d98642663a0db763b28db04f781e7/1787671609/hls_264_master.m3u8?t=1787672723",
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257408251/c3babbe648375e979ad1414b7b5854da1752311d/movie_600x337.jpg?t=1787672723"
+          },
+          {
+            "url": "https://cdn.akamai.steamstatic.com/steam/apps/257404245/movie480.mp4",
+            "url_max": "https://cdn.akamai.steamstatic.com/steam/apps/257404245/movie_max.mp4",
+            "url_webm": "https://cdn.akamai.steamstatic.com/steam/apps/257404245/movie480_vp9.webm",
+            "url_hls": "https://video.akamai.steamstatic.com/store_trailers/3448650/249622641/28964c81cb7c71a4788a6f4fa16ade1253e78a8d/1787247038/hls_264_master.m3u8?t=1787248119",
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257404245/51145e90b51fa10c6211409bd0f2142e31295131/movie_600x337.jpg?t=1787248119"
+          }
+        ]
+      }
+    },
+    {
+      "id": 38930,
+      "nombre": "DUNECRAWL",
+      "url": "https://t.me/c/1634508656/38930",
+      "url_steam": "https://store.steampowered.com/app/1833200/DuneCrawl/",
+      "app_id": "1833200",
+      "imagen_local": false,
+      "fecha": "2026-08-29T10:49:43+00:00",
+      "steam_info": {
+        "subtitulo": "5 ENE 2026 · Alientrap",
+        "generos": [
+          "Acción",
+          "Aventura",
+          "Indie",
+          "Rol"
+        ],
+        "descripcion": "DuneCrawl es un juego de acción y aventura cooperativo en línea donde los jugadores asumen el papel de corsarios que surcan el desierto. Juntos, los jugadores exploran los mares de polvo pilotando su Dune Crawler, un gigantesco crustáceo andante adornado con cañones y mapas del tesoro.",
+        "plataformas": [
+          "Windows"
+        ],
+        "screenshots": [
+          {
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1833200/ss_843c8bacb8ccba8f8bc3d68bf119713a865c4cd7.600x338.jpg?t=1773941115",
+            "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1833200/ss_843c8bacb8ccba8f8bc3d68bf119713a865c4cd7.1920x1080.jpg?t=1773941115"
+          },
+          {
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1833200/ss_806c7dc0ea269f848229877b474e9fced5015373.600x338.jpg?t=1773941115",
+            "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1833200/ss_806c7dc0ea269f848229877b474e9fced5015373.1920x1080.jpg?t=1773941115"
+          },
+          {
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1833200/ss_fa3812a3cffc994d3578884eaaa4ac73c49e8114.600x338.jpg?t=1773941115",
+            "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1833200/ss_fa3812a3cffc994d3578884eaaa4ac73c49e8114.1920x1080.jpg?t=1773941115"
+          },
+          {
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1833200/ss_669e9ff4a1aae498265c7be0d12216d89aa166e8.600x338.jpg?t=1773941115",
+            "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1833200/ss_669e9ff4a1aae498265c7be0d12216d89aa166e8.1920x1080.jpg?t=1773941115"
+          },
+          {
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1833200/ss_9ffade7d7fdcc7695c65b13f6a6958452fad2b8b.600x338.jpg?t=1773941115",
+            "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1833200/ss_9ffade7d7fdcc7695c65b13f6a6958452fad2b8b.1920x1080.jpg?t=1773941115"
+          },
+          {
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1833200/ss_00c05b4b334a46fb65eae9776fdd212f98a18682.600x338.jpg?t=1773941115",
+            "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1833200/ss_00c05b4b334a46fb65eae9776fdd212f98a18682.1920x1080.jpg?t=1773941115"
+          }
+        ],
+        "videos": [
+          {
+            "url": "https://cdn.akamai.steamstatic.com/steam/apps/257237719/movie480.mp4",
+            "url_max": "https://cdn.akamai.steamstatic.com/steam/apps/257237719/movie_max.mp4",
+            "url_webm": "https://cdn.akamai.steamstatic.com/steam/apps/257237719/movie480_vp9.webm",
+            "url_hls": "https://video.akamai.steamstatic.com/store_trailers/1833200/2125989921/0506b3358ea115a6864d6a4b58f8be48c98e88f6/1764088864/hls_264_master.m3u8?t=1764089924",
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257237719/3d9a488cfccdb15698804c654439fab5abe2248e/movie_600x337.jpg?t=1764089924"
+          },
+          {
+            "url": "https://cdn.akamai.steamstatic.com/steam/apps/257057735/movie480.mp4",
+            "url_max": "https://cdn.akamai.steamstatic.com/steam/apps/257057735/movie_max.mp4",
+            "url_webm": "https://cdn.akamai.steamstatic.com/steam/apps/257057735/movie480_vp9.webm",
+            "url_hls": "https://video.akamai.steamstatic.com/store_trailers/1833200/760139/706ab02447888a4073934ee19341127ae757fcd8/1751036558/hls_264_master.m3u8?t=1727280653",
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257057735/movie.293x165.jpg?t=1727280653"
+          }
+        ]
+      }
+    },
+    {
+      "id": 38928,
+      "nombre": "FATAL CLAW",
+      "url": "https://t.me/c/1634508656/38928",
+      "url_steam": "https://store.steampowered.com/app/2827750/Fatal_Claw/",
+      "app_id": "2827750",
+      "imagen_local": false,
+      "fecha": "2026-08-29T10:49:43+00:00",
+      "steam_info": {
+        "subtitulo": "26 AGO 2026 · NDEV GAMES",
+        "generos": [
+          "Acción",
+          "Aventura",
+          "Indie"
+        ],
+        "descripcion": "Sumérgete en Fatal Claw, un juego estilo Metroidvania con vibrantes gráficos en 2D. Explora el inframundo a tu manera con Kisha. Tu misión es encontrar la llave al mundo de la superficie junto con otros sobrevivientes, mientras derrotas enemigos y absorbes su poder. ¡Empieza tu aventura con garras!",
+        "plataformas": [
+          "Windows"
+        ],
+        "screenshots": [
+          {
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2827750/d837bbc71e0c6de954c90584952b700395fd7a1f/ss_d837bbc71e0c6de954c90584952b700395fd7a1f.600x338.jpg?t=1788160418",
+            "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2827750/d837bbc71e0c6de954c90584952b700395fd7a1f/ss_d837bbc71e0c6de954c90584952b700395fd7a1f.1920x1080.jpg?t=1788160418"
+          },
+          {
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2827750/17bc9de0d636dcde147d30a6b0276a640bcf529d/ss_17bc9de0d636dcde147d30a6b0276a640bcf529d.600x338.jpg?t=1788160418",
+            "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2827750/17bc9de0d636dcde147d30a6b0276a640bcf529d/ss_17bc9de0d636dcde147d30a6b0276a640bcf529d.1920x1080.jpg?t=1788160418"
+          },
+          {
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2827750/8caa6bfe1538fadfffbd443e171a8e6e6504673c/ss_8caa6bfe1538fadfffbd443e171a8e6e6504673c.600x338.jpg?t=1788160418",
+            "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2827750/8caa6bfe1538fadfffbd443e171a8e6e6504673c/ss_8caa6bfe1538fadfffbd443e171a8e6e6504673c.1920x1080.jpg?t=1788160418"
+          },
+          {
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2827750/2574d5be57a538087ce1da953439152c19f0aebd/ss_2574d5be57a538087ce1da953439152c19f0aebd.600x338.jpg?t=1788160418",
+            "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2827750/2574d5be57a538087ce1da953439152c19f0aebd/ss_2574d5be57a538087ce1da953439152c19f0aebd.1920x1080.jpg?t=1788160418"
+          },
+          {
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2827750/26c440911034ebeaead2698c8aad76e78009ff24/ss_26c440911034ebeaead2698c8aad76e78009ff24.600x338.jpg?t=1788160418",
+            "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2827750/26c440911034ebeaead2698c8aad76e78009ff24/ss_26c440911034ebeaead2698c8aad76e78009ff24.1920x1080.jpg?t=1788160418"
+          },
+          {
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2827750/ecc3542a6634140cc72754f70bcadcc3851d1252/ss_ecc3542a6634140cc72754f70bcadcc3851d1252.600x338.jpg?t=1788160418",
+            "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2827750/ecc3542a6634140cc72754f70bcadcc3851d1252/ss_ecc3542a6634140cc72754f70bcadcc3851d1252.1920x1080.jpg?t=1788160418"
+          }
+        ],
+        "videos": [
+          {
+            "url": "https://cdn.akamai.steamstatic.com/steam/apps/257405687/movie480.mp4",
+            "url_max": "https://cdn.akamai.steamstatic.com/steam/apps/257405687/movie_max.mp4",
+            "url_webm": "https://cdn.akamai.steamstatic.com/steam/apps/257405687/movie480_vp9.webm",
+            "url_hls": "https://video.akamai.steamstatic.com/store_trailers/2827750/1916047407/204612a824ce3c64f9a9f09d77528fbe3093654e/1787381833/hls_264_master.m3u8?t=1787382518",
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257405687/83424efbbe780bedb040e1cd521a778948e04ce4/movie_600x337.jpg?t=1787382518"
+          },
+          {
+            "url": "https://cdn.akamai.steamstatic.com/steam/apps/257413359/movie480.mp4",
+            "url_max": "https://cdn.akamai.steamstatic.com/steam/apps/257413359/movie_max.mp4",
+            "url_webm": "https://cdn.akamai.steamstatic.com/steam/apps/257413359/movie480_vp9.webm",
+            "url_hls": "https://video.akamai.steamstatic.com/store_trailers/2827750/1785412413/cf46671d938aee959bb8df1c827f7b3f08594aa3/1788159868/hls_264_master.m3u8?t=1788160417",
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257413359/83424efbbe780bedb040e1cd521a778948e04ce4/movie_600x337.jpg?t=1788160417"
+          }
+        ]
+      }
+    },
+    {
+      "id": 38924,
+      "nombre": "TAILS OF IRON 2: WHISKERS OF WINTER",
+      "url": "https://t.me/c/1634508656/38924",
+      "url_steam": "https://store.steampowered.com/app/2473480/Tails_of_Iron_2_Whiskers_of_Winter/",
+      "app_id": "2473480",
+      "imagen_local": false,
+      "fecha": "2026-08-29T10:49:43+00:00",
+      "steam_info": {
+        "subtitulo": "28 ENE 2025 · Odd Bug Studio",
+        "generos": [
+          "Acción",
+          "Aventura",
+          "Indie",
+          "Rol"
+        ],
+        "descripcion": "Una nueva aventura aguarda en Tails of Iron 2, la secuela del juego de acción de rol aclamado por la crítica. Viajarás como Arlo, el nuevo vigilante de los Páramos, a través de las gélidas tierras del norte del reino, y lucharás contra bestias gigantes y bandidos para derrotar a un antiguo mal.",
+        "plataformas": [
+          "Windows",
+          "macOS",
+          "Linux"
+        ],
+        "screenshots": [
+          {
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2473480/ss_af48425861768564367c4eed9b72d5323491880e.600x338.jpg?t=1787324420",
+            "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2473480/ss_af48425861768564367c4eed9b72d5323491880e.1920x1080.jpg?t=1787324420"
+          },
+          {
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2473480/cea3d2908f126bd6f9cf613061fb857316275099/ss_cea3d2908f126bd6f9cf613061fb857316275099.600x338.jpg?t=1787324420",
+            "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2473480/cea3d2908f126bd6f9cf613061fb857316275099/ss_cea3d2908f126bd6f9cf613061fb857316275099.1920x1080.jpg?t=1787324420"
+          },
+          {
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2473480/9ac0765f4c02e8c5bca0b9814a1a5993a2aed995/ss_9ac0765f4c02e8c5bca0b9814a1a5993a2aed995.600x338.jpg?t=1787324420",
+            "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2473480/9ac0765f4c02e8c5bca0b9814a1a5993a2aed995/ss_9ac0765f4c02e8c5bca0b9814a1a5993a2aed995.1920x1080.jpg?t=1787324420"
+          },
+          {
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2473480/ss_e823090030edb27b149e97f278cd6e7d76c7f0e4.600x338.jpg?t=1787324420",
+            "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2473480/ss_e823090030edb27b149e97f278cd6e7d76c7f0e4.1920x1080.jpg?t=1787324420"
+          },
+          {
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2473480/ss_0cb6653dfabaa87392d900692f71832a81d8d3ca.600x338.jpg?t=1787324420",
+            "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2473480/ss_0cb6653dfabaa87392d900692f71832a81d8d3ca.1920x1080.jpg?t=1787324420"
+          },
+          {
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2473480/ss_7a4cbe6518f8a21b721f27fc447580f698310fc6.600x338.jpg?t=1787324420",
+            "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2473480/ss_7a4cbe6518f8a21b721f27fc447580f698310fc6.1920x1080.jpg?t=1787324420"
+          }
+        ],
+        "videos": [
+          {
+            "url": "https://cdn.akamai.steamstatic.com/steam/apps/257405022/movie480.mp4",
+            "url_max": "https://cdn.akamai.steamstatic.com/steam/apps/257405022/movie_max.mp4",
+            "url_webm": "https://cdn.akamai.steamstatic.com/steam/apps/257405022/movie480_vp9.webm",
+            "url_hls": "https://video.akamai.steamstatic.com/store_trailers/2473480/1986971489/d6ac807c275f911a6630a9067f0b1b04b5f05ce2/1787311632/hls_264_master.m3u8?t=1787324418",
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257405022/a266caa3b114d871619fe9a525680195b11b1916/movie_600x337.jpg?t=1787324418"
+          },
+          {
+            "url": "https://cdn.akamai.steamstatic.com/steam/apps/257092467/movie480.mp4",
+            "url_max": "https://cdn.akamai.steamstatic.com/steam/apps/257092467/movie_max.mp4",
+            "url_webm": "https://cdn.akamai.steamstatic.com/steam/apps/257092467/movie480_vp9.webm",
+            "url_hls": "https://video.akamai.steamstatic.com/store_trailers/2473480/818965/258b4af0a76f7c8428205376a34f431646b44a76/1750815466/hls_264_master.m3u8?t=1738082729",
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257092467/e44015c864c7fcd0889e16eaaacf2b04fcacdccb/movie_600x337.jpg?t=1738082729"
+          }
+        ]
+      }
+    },
+    {
+      "id": 38922,
+      "nombre": "VOLKOLAK: THE WILL OF GODS",
+      "url": "https://t.me/c/1634508656/38922",
+      "url_steam": "https://store.steampowered.com/app/2499040/Volkolak_The_Will_of_Gods/",
+      "app_id": "2499040",
+      "imagen_local": false,
+      "fecha": "2026-08-29T10:49:42+00:00",
+      "steam_info": {
+        "subtitulo": "24 AGO 2026 · Volk Team",
+        "generos": [
+          "Acción",
+          "Aventura",
+          "Indie"
+        ],
+        "descripcion": "Volkolak: The Will of Gods is an epic 2D soulsvania in a dark Slavic fantasy setting, with hand-drawn animation. Explore an enchanted world full of secrets and enemies. Your choices will lead to several endings: become a warrior, a werewolf, or join the darkness.",
+        "plataformas": [
+          "Windows"
+        ],
+        "screenshots": [
+          {
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2499040/ss_618af2bae2436c4224873de3f1a6cb41308df288.600x338.jpg?t=1787589086",
+            "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2499040/ss_618af2bae2436c4224873de3f1a6cb41308df288.1920x1080.jpg?t=1787589086"
+          },
+          {
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2499040/e71a4b3f2baecb54cecd7c01a8c05fc584892bad/ss_e71a4b3f2baecb54cecd7c01a8c05fc584892bad.600x338.jpg?t=1787589086",
+            "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2499040/e71a4b3f2baecb54cecd7c01a8c05fc584892bad/ss_e71a4b3f2baecb54cecd7c01a8c05fc584892bad.1920x1080.jpg?t=1787589086"
+          },
+          {
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2499040/a175d1e80afb68b5e8f51a5941607dd749c42246/ss_a175d1e80afb68b5e8f51a5941607dd749c42246.600x338.jpg?t=1787589086",
+            "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2499040/a175d1e80afb68b5e8f51a5941607dd749c42246/ss_a175d1e80afb68b5e8f51a5941607dd749c42246.1920x1080.jpg?t=1787589086"
+          },
+          {
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2499040/91b0e4dd84dd057a7fa5a0a93f181b3342aef56b/ss_91b0e4dd84dd057a7fa5a0a93f181b3342aef56b.600x338.jpg?t=1787589086",
+            "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2499040/91b0e4dd84dd057a7fa5a0a93f181b3342aef56b/ss_91b0e4dd84dd057a7fa5a0a93f181b3342aef56b.1920x1080.jpg?t=1787589086"
+          },
+          {
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2499040/ee45c32564371d4a29f12c31751b3d905a3f569b/ss_ee45c32564371d4a29f12c31751b3d905a3f569b.600x338.jpg?t=1787589086",
+            "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2499040/ee45c32564371d4a29f12c31751b3d905a3f569b/ss_ee45c32564371d4a29f12c31751b3d905a3f569b.1920x1080.jpg?t=1787589086"
+          },
+          {
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2499040/f4028245d6b1726739f33195eb441cccdd59a60e/ss_f4028245d6b1726739f33195eb441cccdd59a60e.600x338.jpg?t=1787589086",
+            "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2499040/f4028245d6b1726739f33195eb441cccdd59a60e/ss_f4028245d6b1726739f33195eb441cccdd59a60e.1920x1080.jpg?t=1787589086"
+          }
+        ],
+        "videos": [
+          {
+            "url": "https://cdn.akamai.steamstatic.com/steam/apps/257405108/movie480.mp4",
+            "url_max": "https://cdn.akamai.steamstatic.com/steam/apps/257405108/movie_max.mp4",
+            "url_webm": "https://cdn.akamai.steamstatic.com/steam/apps/257405108/movie480_vp9.webm",
+            "url_hls": "https://video.akamai.steamstatic.com/store_trailers/2499040/1548327592/3f9d37574326710129327508aae3c2a66481a172/1787316402/hls_264_master.m3u8?t=1787320417",
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257405108/287c6f5928d8b03d36e4ac54616b2c373cea3436/movie_600x337.jpg?t=1787320417"
+          },
+          {
+            "url": "https://cdn.akamai.steamstatic.com/steam/apps/257329532/movie480.mp4",
+            "url_max": "https://cdn.akamai.steamstatic.com/steam/apps/257329532/movie_max.mp4",
+            "url_webm": "https://cdn.akamai.steamstatic.com/steam/apps/257329532/movie480_vp9.webm",
+            "url_hls": "https://video.akamai.steamstatic.com/store_trailers/2499040/1177460528/9efa6bf9cf28966c48cb2d55f2f1faba0295ed34/1777567887/hls_264_master.m3u8?t=1777569850",
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257329532/b1ea36cea43148aab108cae3577405f0fac6dee3/movie_600x337.jpg?t=1777569850"
+          }
+        ]
+      }
+    },
+    {
+      "id": 38903,
+      "nombre": "STAR WARS ZERO COMPANY™",
+      "url": "https://t.me/c/1634508656/38903",
+      "url_steam": "https://store.steampowered.com/app/2075800/STAR_WARS_Zero_Company/",
+      "app_id": "2075800",
+      "imagen_local": true,
+      "fecha": "2026-08-29T10:49:42+00:00",
+      "steam_info": {
+        "subtitulo": "27 AGO 2026 · Bit Reactor",
+        "generos": [
+          "Aventura",
+          "Rol",
+          "Simuladores",
+          "Deportes",
+          "Estrategia"
+        ],
+        "descripcion": "Dirige un escuadrón de élite a lo largo de una auténtica y apasionante historia en STAR WARS Zero Company™, un juego táctico por turnos para un jugador ambientado en el ocaso de las Guerras Clon.",
+        "plataformas": [
+          "Windows"
+        ],
+        "screenshots": [
+          {
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2075800/ca1c9bd849571f0795dbc641f0f4906c15e2aaaa/ss_ca1c9bd849571f0795dbc641f0f4906c15e2aaaa.600x338.jpg?t=1787848803",
+            "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2075800/ca1c9bd849571f0795dbc641f0f4906c15e2aaaa/ss_ca1c9bd849571f0795dbc641f0f4906c15e2aaaa.1920x1080.jpg?t=1787848803"
+          },
+          {
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2075800/3b17d58d42d5362b826d809c8116af621bb2c307/ss_3b17d58d42d5362b826d809c8116af621bb2c307.600x338.jpg?t=1787848803",
+            "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2075800/3b17d58d42d5362b826d809c8116af621bb2c307/ss_3b17d58d42d5362b826d809c8116af621bb2c307.1920x1080.jpg?t=1787848803"
+          },
+          {
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2075800/924f1af44bf400a0d60ca112bb1d7db69e716e36/ss_924f1af44bf400a0d60ca112bb1d7db69e716e36.600x338.jpg?t=1787848803",
+            "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2075800/924f1af44bf400a0d60ca112bb1d7db69e716e36/ss_924f1af44bf400a0d60ca112bb1d7db69e716e36.1920x1080.jpg?t=1787848803"
+          },
+          {
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2075800/4b5486240a9caeabbc7ff95b43ea82f06db0d92d/ss_4b5486240a9caeabbc7ff95b43ea82f06db0d92d.600x338.jpg?t=1787848803",
+            "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2075800/4b5486240a9caeabbc7ff95b43ea82f06db0d92d/ss_4b5486240a9caeabbc7ff95b43ea82f06db0d92d.1920x1080.jpg?t=1787848803"
+          },
+          {
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2075800/68d5acedd1b34badb379215eaf2bd0af3f43c3b1/ss_68d5acedd1b34badb379215eaf2bd0af3f43c3b1.600x338.jpg?t=1787848803",
+            "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2075800/68d5acedd1b34badb379215eaf2bd0af3f43c3b1/ss_68d5acedd1b34badb379215eaf2bd0af3f43c3b1.1920x1080.jpg?t=1787848803"
+          },
+          {
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2075800/738c79334b0ff6614346206e259cab56201956e3/ss_738c79334b0ff6614346206e259cab56201956e3.600x338.jpg?t=1787848803",
+            "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2075800/738c79334b0ff6614346206e259cab56201956e3/ss_738c79334b0ff6614346206e259cab56201956e3.1920x1080.jpg?t=1787848803"
+          }
+        ],
+        "videos": [
+          {
+            "url": "https://cdn.akamai.steamstatic.com/steam/apps/257410383/movie480.mp4",
+            "url_max": "https://cdn.akamai.steamstatic.com/steam/apps/257410383/movie_max.mp4",
+            "url_webm": "https://cdn.akamai.steamstatic.com/steam/apps/257410383/movie480_vp9.webm",
+            "url_hls": "https://video.akamai.steamstatic.com/store_trailers/2075800/44450904/8314e5e3cd444ffa98208aa114b458e69ba67a73/1787847664/hls_264_master.m3u8?t=1787848800",
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257410383/873e4d5bf7a9183dd199198181aec5a254402218/movie_600x337.jpg?t=1787848800"
+          }
+        ]
+      }
+    },
+    {
+      "id": 38866,
+      "nombre": "THE ATLERS: LAST VARIABLE",
+      "url": "https://t.me/c/1634508656/38866",
+      "url_steam": "https://store.steampowered.com/app/3237520/The_Alters_Last_Variable/",
+      "app_id": "3237520",
+      "imagen_local": true,
+      "fecha": "2026-08-23T08:55:32+00:00",
+      "steam_info": {
+        "subtitulo": "13 JUL 2026 · 11 bit studios",
+        "generos": [
+          "Aventura"
+        ],
+        "descripcion": "Sigue la historia de Jan Científico tras quedarse solo para desvelar los secretos del planeta. Construye una base subterránea, monta un equipo de alters Científicos, domina la terraformación, inventa nuevas tecnologías y realiza investigaciones que definan tu legado.",
+        "plataformas": [
+          "Windows"
+        ],
+        "screenshots": [
+          {
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3237520/7037d96f7c796d14ea8a0095a66d497ca3cea030/ss_7037d96f7c796d14ea8a0095a66d497ca3cea030.600x338.jpg?t=1783963664",
+            "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3237520/7037d96f7c796d14ea8a0095a66d497ca3cea030/ss_7037d96f7c796d14ea8a0095a66d497ca3cea030.1920x1080.jpg?t=1783963664"
+          },
+          {
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3237520/e51b2171d5e1e185d10b00f4f4d15ba71bf43366/ss_e51b2171d5e1e185d10b00f4f4d15ba71bf43366.600x338.jpg?t=1783963664",
+            "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3237520/e51b2171d5e1e185d10b00f4f4d15ba71bf43366/ss_e51b2171d5e1e185d10b00f4f4d15ba71bf43366.1920x1080.jpg?t=1783963664"
+          },
+          {
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3237520/70d54ea9b5cee942e687240738e5f1a7d9399074/ss_70d54ea9b5cee942e687240738e5f1a7d9399074.600x338.jpg?t=1783963664",
+            "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3237520/70d54ea9b5cee942e687240738e5f1a7d9399074/ss_70d54ea9b5cee942e687240738e5f1a7d9399074.1920x1080.jpg?t=1783963664"
+          },
+          {
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3237520/4362b149745ded061675cc68397d1ea9e9d2b71f/ss_4362b149745ded061675cc68397d1ea9e9d2b71f.600x338.jpg?t=1783963664",
+            "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3237520/4362b149745ded061675cc68397d1ea9e9d2b71f/ss_4362b149745ded061675cc68397d1ea9e9d2b71f.1920x1080.jpg?t=1783963664"
+          },
+          {
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3237520/2d2cc8d821a148afd36284b0f93ea4e8d9bd3f74/ss_2d2cc8d821a148afd36284b0f93ea4e8d9bd3f74.600x338.jpg?t=1783963664",
+            "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3237520/2d2cc8d821a148afd36284b0f93ea4e8d9bd3f74/ss_2d2cc8d821a148afd36284b0f93ea4e8d9bd3f74.1920x1080.jpg?t=1783963664"
+          },
+          {
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3237520/aaded6df8f27cd27398f9585cec6a512466c90a8/ss_aaded6df8f27cd27398f9585cec6a512466c90a8.600x338.jpg?t=1783963664",
+            "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3237520/aaded6df8f27cd27398f9585cec6a512466c90a8/ss_aaded6df8f27cd27398f9585cec6a512466c90a8.1920x1080.jpg?t=1783963664"
+          }
+        ],
+        "videos": [
+          {
+            "url": "https://cdn.akamai.steamstatic.com/steam/apps/257373810/movie480.mp4",
+            "url_max": "https://cdn.akamai.steamstatic.com/steam/apps/257373810/movie_max.mp4",
+            "url_webm": "https://cdn.akamai.steamstatic.com/steam/apps/257373810/movie480_vp9.webm",
+            "url_hls": "https://video.akamai.steamstatic.com/store_trailers/3237520/782772748/fed9bc8f2d77e145a8a62b8b1ff35e1dcdc408fd/1783613676/hls_264_master.m3u8?t=1783963657",
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257373810/2be2c83332a539e20cf895fccf476dc4a4553bfb/movie_600x337.jpg?t=1783963657"
+          },
+          {
+            "url": "https://cdn.akamai.steamstatic.com/steam/apps/257369727/movie480.mp4",
+            "url_max": "https://cdn.akamai.steamstatic.com/steam/apps/257369727/movie_max.mp4",
+            "url_webm": "https://cdn.akamai.steamstatic.com/steam/apps/257369727/movie480_vp9.webm",
+            "url_hls": "https://video.akamai.steamstatic.com/store_trailers/3237520/1157663173/4cb7ff593102aa91ee63e98229d14a6e75e8c188/1782995274/hls_264_master.m3u8?t=1783001039",
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257369727/97b7b75420ac4ebd7eb7da58798d7b13cc423403/movie_600x337.jpg?t=1783001039"
+          }
+        ]
+      }
+    },
+    {
+      "id": 38848,
+      "nombre": "RESONANCE: A PLAGUE TALE LEGACY",
+      "url": "https://t.me/c/1634508656/38848",
+      "url_steam": "https://store.steampowered.com/app/2713000/Resonance_A_Plague_Tale_Legacy/",
+      "app_id": "2713000",
+      "imagen_local": true,
+      "fecha": "2026-08-21T21:36:35+00:00",
+      "steam_info": {
+        "subtitulo": "27 AGO 2026 · Asobo Studio",
+        "generos": [
+          "Acción",
+          "Aventura"
+        ],
+        "descripcion": "Ponte en la piel de Sofía y vive la historia previa a la del galardonado A Plague Tale. Dirígete a la Isla del Minotauro, supera a tus enemigos, descubre antiguos secretos y enfréntate a una criatura mítica en el corazón de una terrible maldición.",
+        "plataformas": [
+          "Windows"
+        ],
+        "screenshots": [
+          {
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2713000/eb5c2bfe44017bede10d1e649966804922e518c3/ss_eb5c2bfe44017bede10d1e649966804922e518c3.600x338.jpg?t=1787925122",
+            "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2713000/eb5c2bfe44017bede10d1e649966804922e518c3/ss_eb5c2bfe44017bede10d1e649966804922e518c3.1920x1080.jpg?t=1787925122"
+          },
+          {
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2713000/c64b2faba011b9d82b65bcf8794c046244c3f174/ss_c64b2faba011b9d82b65bcf8794c046244c3f174.600x338.jpg?t=1787925122",
+            "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2713000/c64b2faba011b9d82b65bcf8794c046244c3f174/ss_c64b2faba011b9d82b65bcf8794c046244c3f174.1920x1080.jpg?t=1787925122"
+          },
+          {
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2713000/8a6c212059ef9362a864e84d9b647cbbfedeb4b2/ss_8a6c212059ef9362a864e84d9b647cbbfedeb4b2.600x338.jpg?t=1787925122",
+            "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2713000/8a6c212059ef9362a864e84d9b647cbbfedeb4b2/ss_8a6c212059ef9362a864e84d9b647cbbfedeb4b2.1920x1080.jpg?t=1787925122"
+          },
+          {
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2713000/fd9dde076e8cae84052ac9b682888c370fca7ed4/ss_fd9dde076e8cae84052ac9b682888c370fca7ed4.600x338.jpg?t=1787925122",
+            "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2713000/fd9dde076e8cae84052ac9b682888c370fca7ed4/ss_fd9dde076e8cae84052ac9b682888c370fca7ed4.1920x1080.jpg?t=1787925122"
+          },
+          {
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2713000/9ff81a313610c1e31177a94a7c2ff3f8ec17e2ab/ss_9ff81a313610c1e31177a94a7c2ff3f8ec17e2ab.600x338.jpg?t=1787925122",
+            "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2713000/9ff81a313610c1e31177a94a7c2ff3f8ec17e2ab/ss_9ff81a313610c1e31177a94a7c2ff3f8ec17e2ab.1920x1080.jpg?t=1787925122"
+          },
+          {
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2713000/1218579fae82e00d1c459c3ea880d89854494e31/ss_1218579fae82e00d1c459c3ea880d89854494e31.600x338.jpg?t=1787925122",
+            "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2713000/1218579fae82e00d1c459c3ea880d89854494e31/ss_1218579fae82e00d1c459c3ea880d89854494e31.1920x1080.jpg?t=1787925122"
+          }
+        ],
+        "videos": [
+          {
+            "url": "https://cdn.akamai.steamstatic.com/steam/apps/257407260/movie480.mp4",
+            "url_max": "https://cdn.akamai.steamstatic.com/steam/apps/257407260/movie_max.mp4",
+            "url_webm": "https://cdn.akamai.steamstatic.com/steam/apps/257407260/movie480_vp9.webm",
+            "url_hls": "https://video.akamai.steamstatic.com/store_trailers/2713000/1965083196/b1323d81a8567de626fb418488dbc9b8100a85fd/1787580918/hls_264_master.m3u8?t=1787682173",
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257407260/9e8c481e2ba5ab21b985b9655f7bcecd574886be/movie_600x337.jpg?t=1787682173"
+          },
+          {
+            "url": "https://cdn.akamai.steamstatic.com/steam/apps/257396657/movie480.mp4",
+            "url_max": "https://cdn.akamai.steamstatic.com/steam/apps/257396657/movie_max.mp4",
+            "url_webm": "https://cdn.akamai.steamstatic.com/steam/apps/257396657/movie480_vp9.webm",
+            "url_hls": "https://video.akamai.steamstatic.com/store_trailers/2713000/1583889976/ea6d97bc895a8a40a7a64e149a765f7757b952c7/1786465132/hls_264_master.m3u8?t=1786551115",
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257396657/371fe13e3cc7cdb4ca9380d8bf3b09846e0dd104/movie_600x337.jpg?t=1786551115"
+          }
+        ]
+      }
+    },
+    {
+      "id": 38834,
+      "nombre": "THE SINKING CITY 2",
+      "url": "https://t.me/c/1634508656/38834",
+      "url_steam": "https://store.steampowered.com/app/2825860/The_Sinking_City_2/",
+      "app_id": "2825860",
+      "imagen_local": false,
+      "fecha": "2026-08-21T21:36:35+00:00",
+      "steam_info": {
+        "subtitulo": "18 AGO 2026 · Frogwares",
+        "generos": [
+          "Acción",
+          "Aventura"
+        ],
+        "descripcion": "The Sinking City 2 se ambienta en los Felices años veinte en este juego de horror y supervivencia cargado de terrores lovecraftianos. Desafía a una deidad sobrenatural y explora los callejones inundados de Arkham mientras te acechan los muertos y sopesas una sola vida frente a toda una ciudad.",
+        "plataformas": [
+          "Windows"
+        ],
+        "screenshots": [
+          {
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2825860/6fcc059aaf60ab486c8947a8613e61f5efaa40c5/ss_6fcc059aaf60ab486c8947a8613e61f5efaa40c5.600x338.jpg?t=1787235451",
+            "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2825860/6fcc059aaf60ab486c8947a8613e61f5efaa40c5/ss_6fcc059aaf60ab486c8947a8613e61f5efaa40c5.1920x1080.jpg?t=1787235451"
+          },
+          {
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2825860/531ae06deb0827d686528d98ff36f0e214b2042c/ss_531ae06deb0827d686528d98ff36f0e214b2042c.600x338.jpg?t=1787235451",
+            "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2825860/531ae06deb0827d686528d98ff36f0e214b2042c/ss_531ae06deb0827d686528d98ff36f0e214b2042c.1920x1080.jpg?t=1787235451"
+          },
+          {
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2825860/71d472f665b312b82dc00930f0ac189465eea0bb/ss_71d472f665b312b82dc00930f0ac189465eea0bb.600x338.jpg?t=1787235451",
+            "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2825860/71d472f665b312b82dc00930f0ac189465eea0bb/ss_71d472f665b312b82dc00930f0ac189465eea0bb.1920x1080.jpg?t=1787235451"
+          },
+          {
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2825860/04ae089d67541f1196d6d02bb9e0809b8e2bdd3c/ss_04ae089d67541f1196d6d02bb9e0809b8e2bdd3c.600x338.jpg?t=1787235451",
+            "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2825860/04ae089d67541f1196d6d02bb9e0809b8e2bdd3c/ss_04ae089d67541f1196d6d02bb9e0809b8e2bdd3c.1920x1080.jpg?t=1787235451"
+          },
+          {
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2825860/c97359ef27a6142cfc0c3be64e826b8ea9169715/ss_c97359ef27a6142cfc0c3be64e826b8ea9169715.600x338.jpg?t=1787235451",
+            "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2825860/c97359ef27a6142cfc0c3be64e826b8ea9169715/ss_c97359ef27a6142cfc0c3be64e826b8ea9169715.1920x1080.jpg?t=1787235451"
+          },
+          {
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2825860/5c6bf5fbe07719507b10ab5106104ad146425bab/ss_5c6bf5fbe07719507b10ab5106104ad146425bab.600x338.jpg?t=1787235451",
+            "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2825860/5c6bf5fbe07719507b10ab5106104ad146425bab/ss_5c6bf5fbe07719507b10ab5106104ad146425bab.1920x1080.jpg?t=1787235451"
+          }
+        ],
+        "videos": [
+          {
+            "url": "https://cdn.akamai.steamstatic.com/steam/apps/257400334/movie480.mp4",
+            "url_max": "https://cdn.akamai.steamstatic.com/steam/apps/257400334/movie_max.mp4",
+            "url_webm": "https://cdn.akamai.steamstatic.com/steam/apps/257400334/movie480_vp9.webm",
+            "url_hls": "https://video.akamai.steamstatic.com/store_trailers/2825860/1974696995/5bd298844d766a9505ccaf87f32fd60333ba2e60/1786824030/hls_264_master.m3u8?t=1787043433",
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257400334/c1fc52f7fe2a3c737861cca94f806f1f33f0f5f2/movie_600x337.jpg?t=1787043433"
+          },
+          {
+            "url": "https://cdn.akamai.steamstatic.com/steam/apps/257374347/movie480.mp4",
+            "url_max": "https://cdn.akamai.steamstatic.com/steam/apps/257374347/movie_max.mp4",
+            "url_webm": "https://cdn.akamai.steamstatic.com/steam/apps/257374347/movie480_vp9.webm",
+            "url_hls": "https://video.akamai.steamstatic.com/store_trailers/2825860/1279663507/62b3ce8b531699976dd54e763f25fabb68cb4060/1783674487/hls_264_master.m3u8?t=1783678360",
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257374347/b9b37de7ea34597ffc53649a363c9df5191358fa/movie_600x337.jpg?t=1783678360"
+          }
+        ]
+      }
+    },
+    {
+      "id": 38826,
+      "nombre": "MARVEL TOKON - FIGHTING SOULS",
+      "url": "https://t.me/c/1634508656/38826",
+      "url_steam": "https://store.steampowered.com/app/3787240/MARVEL_Tokon_Fighting_Souls/",
+      "app_id": "3787240",
+      "imagen_local": true,
+      "fecha": "2026-08-21T15:51:10+00:00",
+      "steam_info": {
+        "subtitulo": "6 AGO 2026 · ARC SYSTEM WORKS CO., LTD",
+        "generos": [
+          "Acción",
+          "Casual"
+        ],
+        "descripcion": "Reúne a tu equipo de legendarios personajes Marvel en el juego de lucha 4c4 definitivo de PlayStation Studios, Arc System Works y Marvel Games.",
+        "plataformas": [
+          "Windows"
+        ],
+        "screenshots": [
+          {
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3787240/10c0fc19577ce7b7d5ea0fbcb257a1744d320f91/ss_10c0fc19577ce7b7d5ea0fbcb257a1744d320f91.600x338.jpg?t=1787658133",
+            "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3787240/10c0fc19577ce7b7d5ea0fbcb257a1744d320f91/ss_10c0fc19577ce7b7d5ea0fbcb257a1744d320f91.1920x1080.jpg?t=1787658133"
+          },
+          {
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3787240/695493c0bcb6f662019b22d148092b60e7de6167/ss_695493c0bcb6f662019b22d148092b60e7de6167.600x338.jpg?t=1787658133",
+            "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3787240/695493c0bcb6f662019b22d148092b60e7de6167/ss_695493c0bcb6f662019b22d148092b60e7de6167.1920x1080.jpg?t=1787658133"
+          },
+          {
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3787240/4c831d2310a742238e3755366a6b8ae073aa44c0/ss_4c831d2310a742238e3755366a6b8ae073aa44c0.600x338.jpg?t=1787658133",
+            "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3787240/4c831d2310a742238e3755366a6b8ae073aa44c0/ss_4c831d2310a742238e3755366a6b8ae073aa44c0.1920x1080.jpg?t=1787658133"
+          },
+          {
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3787240/b64c0eb3fdfa7b80cd8b0899ae0440d02f9daaf4/ss_b64c0eb3fdfa7b80cd8b0899ae0440d02f9daaf4.600x338.jpg?t=1787658133",
+            "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3787240/b64c0eb3fdfa7b80cd8b0899ae0440d02f9daaf4/ss_b64c0eb3fdfa7b80cd8b0899ae0440d02f9daaf4.1920x1080.jpg?t=1787658133"
+          },
+          {
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3787240/953c246f3b05c5fa26b2ff5081001a7e8fe03a86/ss_953c246f3b05c5fa26b2ff5081001a7e8fe03a86.600x338.jpg?t=1787658133",
+            "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3787240/953c246f3b05c5fa26b2ff5081001a7e8fe03a86/ss_953c246f3b05c5fa26b2ff5081001a7e8fe03a86.1920x1080.jpg?t=1787658133"
+          },
+          {
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3787240/9b9f80562039feb05bb71759a2f185a8ed7d2253/ss_9b9f80562039feb05bb71759a2f185a8ed7d2253.600x338.jpg?t=1787658133",
+            "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3787240/9b9f80562039feb05bb71759a2f185a8ed7d2253/ss_9b9f80562039feb05bb71759a2f185a8ed7d2253.1920x1080.jpg?t=1787658133"
+          }
+        ],
+        "videos": [
+          {
+            "url": "https://cdn.akamai.steamstatic.com/steam/apps/257391427/movie480.mp4",
+            "url_max": "https://cdn.akamai.steamstatic.com/steam/apps/257391427/movie_max.mp4",
+            "url_webm": "https://cdn.akamai.steamstatic.com/steam/apps/257391427/movie480_vp9.webm",
+            "url_hls": "https://video.akamai.steamstatic.com/store_trailers/3787240/1798328181/29934e91b908a2545ae8ed502d143d8f2a0d121e/1785831401/hls_264_master.m3u8?t=1786028396",
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257391427/798f3549a4e7bf7438e75a80ea9845857b4926fb/movie_600x337.jpg?t=1786028396"
+          },
+          {
+            "url": "https://cdn.akamai.steamstatic.com/steam/apps/257369483/movie480.mp4",
+            "url_max": "https://cdn.akamai.steamstatic.com/steam/apps/257369483/movie_max.mp4",
+            "url_webm": "https://cdn.akamai.steamstatic.com/steam/apps/257369483/movie480_vp9.webm",
+            "url_hls": "https://video.akamai.steamstatic.com/store_trailers/3787240/731268843/61b8a6f79789b3b1f446667701bdc5a093b9975f/1782975936/hls_264_master.m3u8?t=1783511112",
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257369483/57d2bf112b6dd2f171aa3cff0a68b1abbdc595d2/movie_600x337.jpg?t=1783511112"
+          }
+        ]
+      }
+    },
+    {
+      "id": 38820,
+      "nombre": "ZERO PARADES: For Dead Spies",
+      "url": "https://t.me/c/1634508656/38820",
+      "url_steam": "https://store.steampowered.com/app/2863680/ZERO_PARADES_For_Dead_Spies/",
+      "app_id": "2863680",
+      "imagen_local": true,
+      "fecha": "2026-08-21T13:52:19+00:00",
+      "steam_info": {
+        "subtitulo": "21 MAY 2026 · ZA/UM",
+        "generos": [
+          "Indie",
+          "Rol"
+        ],
+        "descripcion": "From the creators of Disco Elysium comes ZERO PARADES – an espionage RPG. You're a brilliant but tormented operant on one final desperate assignment. Gather your broken network, untangle a web of lies, and prove yourself on the world stage - or blow it all up again.",
+        "plataformas": [
+          "Windows"
+        ],
+        "screenshots": [
+          {
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2863680/5d9fda00ef153259e4c1c8a306a5909fa7114387/ss_5d9fda00ef153259e4c1c8a306a5909fa7114387.600x338.jpg?t=1786953986",
+            "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2863680/5d9fda00ef153259e4c1c8a306a5909fa7114387/ss_5d9fda00ef153259e4c1c8a306a5909fa7114387.1920x1080.jpg?t=1786953986"
+          },
+          {
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2863680/c17c7cfff2973dea7e5f5d0b1bc0cf86ed72fd33/ss_c17c7cfff2973dea7e5f5d0b1bc0cf86ed72fd33.600x338.jpg?t=1786953986",
+            "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2863680/c17c7cfff2973dea7e5f5d0b1bc0cf86ed72fd33/ss_c17c7cfff2973dea7e5f5d0b1bc0cf86ed72fd33.1920x1080.jpg?t=1786953986"
+          },
+          {
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2863680/b5f723041080205d00f69b9eeeaf5c772d4b39fc/ss_b5f723041080205d00f69b9eeeaf5c772d4b39fc.600x338.jpg?t=1786953986",
+            "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2863680/b5f723041080205d00f69b9eeeaf5c772d4b39fc/ss_b5f723041080205d00f69b9eeeaf5c772d4b39fc.1920x1080.jpg?t=1786953986"
+          },
+          {
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2863680/5590e92fb76845380d3b2ccb5678d69997703b40/ss_5590e92fb76845380d3b2ccb5678d69997703b40.600x338.jpg?t=1786953986",
+            "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2863680/5590e92fb76845380d3b2ccb5678d69997703b40/ss_5590e92fb76845380d3b2ccb5678d69997703b40.1920x1080.jpg?t=1786953986"
+          },
+          {
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2863680/29f56bddde500ec417f916b24b81d7bee49bb5dd/ss_29f56bddde500ec417f916b24b81d7bee49bb5dd.600x338.jpg?t=1786953986",
+            "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2863680/29f56bddde500ec417f916b24b81d7bee49bb5dd/ss_29f56bddde500ec417f916b24b81d7bee49bb5dd.1920x1080.jpg?t=1786953986"
+          },
+          {
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2863680/f71a1b51242027f716903c54b57af7244d2467c3/ss_f71a1b51242027f716903c54b57af7244d2467c3.600x338.jpg?t=1786953986",
+            "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2863680/f71a1b51242027f716903c54b57af7244d2467c3/ss_f71a1b51242027f716903c54b57af7244d2467c3.1920x1080.jpg?t=1786953986"
+          }
+        ],
+        "videos": [
+          {
+            "url": "https://cdn.akamai.steamstatic.com/steam/apps/257340609/movie480.mp4",
+            "url_max": "https://cdn.akamai.steamstatic.com/steam/apps/257340609/movie_max.mp4",
+            "url_webm": "https://cdn.akamai.steamstatic.com/steam/apps/257340609/movie480_vp9.webm",
+            "url_hls": "https://video.akamai.steamstatic.com/store_trailers/2863680/1098191492/903103ddf14a8e1fbccc468ba9280c403eca3908/1779353669/hls_264_master.m3u8?t=1779357973",
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257340609/0c541ef4f0e3ab57515f0edcad5ae7420a91ec34/movie_600x337.jpg?t=1779357973"
+          },
+          {
+            "url": "https://cdn.akamai.steamstatic.com/steam/apps/257333007/movie480.mp4",
+            "url_max": "https://cdn.akamai.steamstatic.com/steam/apps/257333007/movie_max.mp4",
+            "url_webm": "https://cdn.akamai.steamstatic.com/steam/apps/257333007/movie480_vp9.webm",
+            "url_hls": "https://video.akamai.steamstatic.com/store_trailers/2863680/497570639/37716e3088081a33f4af77e8b4b8354325fb7727/1778171645/hls_264_master.m3u8?t=1779302457",
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257333007/2c8c7b42f69ff374eab91d9769cd20e61520018f/movie_600x337.jpg?t=1779302457"
+          }
+        ]
+      }
+    },
+    {
+      "id": 38760,
+      "nombre": "MORTAL SHELL II",
+      "url": "https://t.me/c/1634508656/38760",
+      "url_steam": "https://store.steampowered.com/app/2584270/Mortal_Shell_II/",
+      "app_id": "2584270",
+      "imagen_local": true,
+      "fecha": "2026-08-21T13:52:17+00:00",
+      "steam_info": {
+        "subtitulo": "20 AGO 2026 · Cold Symmetry",
+        "generos": [
+          "Acción",
+          "Rol"
+        ],
+        "descripcion": "Su carne es tu arma. Mortal Shell II es la secuela independiente de un RPG de acción con peleas despiadadas y llenas de adrenalina. Posee guerreros excepcionales, derroca dioses falsos y redime un mundo en destrucción.",
+        "plataformas": [
+          "Windows"
+        ],
+        "screenshots": [
+          {
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2584270/a38e76ebe240fb97b0d81e5a38569c0991d3ca63/ss_a38e76ebe240fb97b0d81e5a38569c0991d3ca63.600x338.jpg?t=1787818594",
+            "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2584270/a38e76ebe240fb97b0d81e5a38569c0991d3ca63/ss_a38e76ebe240fb97b0d81e5a38569c0991d3ca63.1920x1080.jpg?t=1787818594"
+          },
+          {
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2584270/25aef0e6c4291d8708b53c5e8aaa66bc9859592f/ss_25aef0e6c4291d8708b53c5e8aaa66bc9859592f.600x338.jpg?t=1787818594",
+            "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2584270/25aef0e6c4291d8708b53c5e8aaa66bc9859592f/ss_25aef0e6c4291d8708b53c5e8aaa66bc9859592f.1920x1080.jpg?t=1787818594"
+          },
+          {
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2584270/c00a163b2843460386cad95df44de5d47a79fc26/ss_c00a163b2843460386cad95df44de5d47a79fc26.600x338.jpg?t=1787818594",
+            "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2584270/c00a163b2843460386cad95df44de5d47a79fc26/ss_c00a163b2843460386cad95df44de5d47a79fc26.1920x1080.jpg?t=1787818594"
+          },
+          {
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2584270/c38138e1c7c7c84636a08b2729bd983728f2c597/ss_c38138e1c7c7c84636a08b2729bd983728f2c597.600x338.jpg?t=1787818594",
+            "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2584270/c38138e1c7c7c84636a08b2729bd983728f2c597/ss_c38138e1c7c7c84636a08b2729bd983728f2c597.1920x1080.jpg?t=1787818594"
+          },
+          {
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2584270/5d8abca2b0c59292425e091aeb013f1eca948cbb/ss_5d8abca2b0c59292425e091aeb013f1eca948cbb.600x338.jpg?t=1787818594",
+            "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2584270/5d8abca2b0c59292425e091aeb013f1eca948cbb/ss_5d8abca2b0c59292425e091aeb013f1eca948cbb.1920x1080.jpg?t=1787818594"
+          },
+          {
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2584270/8109ee13458b04eb59cad18872996c3f802e7d7f/ss_8109ee13458b04eb59cad18872996c3f802e7d7f.600x338.jpg?t=1787818594",
+            "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2584270/8109ee13458b04eb59cad18872996c3f802e7d7f/ss_8109ee13458b04eb59cad18872996c3f802e7d7f.1920x1080.jpg?t=1787818594"
+          }
+        ],
+        "videos": [
+          {
+            "url": "https://cdn.akamai.steamstatic.com/steam/apps/257403941/movie480.mp4",
+            "url_max": "https://cdn.akamai.steamstatic.com/steam/apps/257403941/movie_max.mp4",
+            "url_webm": "https://cdn.akamai.steamstatic.com/steam/apps/257403941/movie480_vp9.webm",
+            "url_hls": "https://video.akamai.steamstatic.com/store_trailers/2584270/554060256/568e22ae7c0eb7b4f72ba8012dcc9020c46a822a/1787224838/hls_264_master.m3u8?t=1787230803",
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257403941/837376cedbfb70e9b223cbc9120ca942f4a784d0/movie_600x337.jpg?t=1787230803"
+          },
+          {
+            "url": "https://cdn.akamai.steamstatic.com/steam/apps/257408180/movie480.mp4",
+            "url_max": "https://cdn.akamai.steamstatic.com/steam/apps/257408180/movie_max.mp4",
+            "url_webm": "https://cdn.akamai.steamstatic.com/steam/apps/257408180/movie480_vp9.webm",
+            "url_hls": "https://video.akamai.steamstatic.com/store_trailers/2584270/262780156/ca4e54aeb63f049e74a1fd22b77735890a876b94/1787667229/hls_264_master.m3u8?t=1787749755",
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257408180/9505a86a047b6aea969d3f89138eeff16bce4147/movie_600x337.jpg?t=1787749755"
+          }
+        ]
+      }
+    },
+    {
+      "id": 38758,
+      "nombre": "ANOMALY PRESIDENT",
+      "url": "https://t.me/c/1634508656/38758",
+      "url_steam": "https://store.steampowered.com/app/3156330/Anomaly_President/",
+      "app_id": "3156330",
+      "imagen_local": false,
+      "fecha": "2026-08-21T13:52:17+00:00",
+      "steam_info": {
+        "subtitulo": "3 AGO 2026 · Phew Phew Games",
+        "generos": [
+          "Acción",
+          "Aventura",
+          "Indie",
+          "Rol",
+          "Acceso anticipado"
+        ],
+        "descripcion": "En este juego de acción presidencial al estilo roguelike, ¡reúne votos para la presidencia de día y conviértete en guerrero para aniquilar a tus enemigos de noche! ¡Domina habilidades únicas para llegar a ser un maestro espadachín, un cibermago o algo intermedio, y derroca al despiadado presidente!",
+        "plataformas": [
+          "Windows"
+        ],
+        "screenshots": [
+          {
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3156330/3e77fad9df12fc9eb43b9abd81f848d26708b8ed/ss_3e77fad9df12fc9eb43b9abd81f848d26708b8ed.600x338.jpg?t=1787309749",
+            "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3156330/3e77fad9df12fc9eb43b9abd81f848d26708b8ed/ss_3e77fad9df12fc9eb43b9abd81f848d26708b8ed.1920x1080.jpg?t=1787309749"
+          },
+          {
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3156330/91e52cab229575f2d73d08a33d2fda997c3703cf/ss_91e52cab229575f2d73d08a33d2fda997c3703cf.600x338.jpg?t=1787309749",
+            "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3156330/91e52cab229575f2d73d08a33d2fda997c3703cf/ss_91e52cab229575f2d73d08a33d2fda997c3703cf.1920x1080.jpg?t=1787309749"
+          },
+          {
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3156330/bbad5c57fb23366808f8511a50739320b202d0ae/ss_bbad5c57fb23366808f8511a50739320b202d0ae.600x338.jpg?t=1787309749",
+            "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3156330/bbad5c57fb23366808f8511a50739320b202d0ae/ss_bbad5c57fb23366808f8511a50739320b202d0ae.1920x1080.jpg?t=1787309749"
+          },
+          {
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3156330/21afff1a438efc737445aff2959e6a2e0484de95/ss_21afff1a438efc737445aff2959e6a2e0484de95.600x338.jpg?t=1787309749",
+            "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3156330/21afff1a438efc737445aff2959e6a2e0484de95/ss_21afff1a438efc737445aff2959e6a2e0484de95.1920x1080.jpg?t=1787309749"
+          },
+          {
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3156330/ss_5ddab4b437ab914052d5bc309e910508ca110f08.600x338.jpg?t=1787309749",
+            "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3156330/ss_5ddab4b437ab914052d5bc309e910508ca110f08.1920x1080.jpg?t=1787309749"
+          },
+          {
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3156330/c843913e8c4bc02743fb592c4325c9c5369ca271/ss_c843913e8c4bc02743fb592c4325c9c5369ca271.600x338.jpg?t=1787309749",
+            "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3156330/c843913e8c4bc02743fb592c4325c9c5369ca271/ss_c843913e8c4bc02743fb592c4325c9c5369ca271.1920x1080.jpg?t=1787309749"
+          }
+        ],
+        "videos": [
+          {
+            "url": "https://cdn.akamai.steamstatic.com/steam/apps/257391022/movie480.mp4",
+            "url_max": "https://cdn.akamai.steamstatic.com/steam/apps/257391022/movie_max.mp4",
+            "url_webm": "https://cdn.akamai.steamstatic.com/steam/apps/257391022/movie480_vp9.webm",
+            "url_hls": "https://video.akamai.steamstatic.com/store_trailers/3156330/657259463/83c9411f1acabcc8fe5f3b1567e0cb76d71b1011/1785767110/hls_264_master.m3u8?t=1785768946",
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257391022/b2a61dac15cd5cc32f02fef5874ecf80f83f0654/movie_600x337.jpg?t=1785768946"
+          },
+          {
+            "url": "https://cdn.akamai.steamstatic.com/steam/apps/257302130/movie480.mp4",
+            "url_max": "https://cdn.akamai.steamstatic.com/steam/apps/257302130/movie_max.mp4",
+            "url_webm": "https://cdn.akamai.steamstatic.com/steam/apps/257302130/movie480_vp9.webm",
+            "url_hls": "https://video.akamai.steamstatic.com/store_trailers/3156330/267449967/f6b1ec07140798a4f777cbd003425d0e33a3f3b9/1773333569/hls_264_master.m3u8?t=1773352049",
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257302130/3b13d258212e93f3552f102a74d99929b4f4cec6/movie_600x337.jpg?t=1773352049"
+          }
+        ]
+      }
+    },
+    {
+      "id": 38744,
+      "nombre": "ASSASSIN'S CREED BLACK FLAG RESYNCED",
+      "url": "https://t.me/c/1634508656/38744",
+      "url_steam": "https://store.steampowered.com/app/3751950/Assassins_Creed_Black_Flag_Resynced/",
+      "app_id": "3751950",
+      "imagen_local": true,
+      "fecha": "2026-08-20T05:52:04+00:00",
+      "steam_info": {
+        "subtitulo": "9 JUL 2026 · Ubisoft Singapore",
+        "generos": [
+          "Acción",
+          "Aventura"
+        ],
+        "descripcion": "Vuelve la emblemática aventura de piratas en solitario. Navega por el Caribe como Edward Kenway durante la edad de oro de la piratería en esta versión optimizada que presenta unos gráficos impresionantes, una mecánica de juego mejorada y nuevo contenido.",
+        "plataformas": [
+          "Windows"
+        ],
+        "screenshots": [
+          {
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751950/5de8c44752bdbc724b905b76bc5023bbff57547f/ss_5de8c44752bdbc724b905b76bc5023bbff57547f.600x338.jpg?t=1787915122",
+            "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751950/5de8c44752bdbc724b905b76bc5023bbff57547f/ss_5de8c44752bdbc724b905b76bc5023bbff57547f.1920x1080.jpg?t=1787915122"
+          },
+          {
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751950/f084448247301f9b445e92ceb202eaa591cf65d1/ss_f084448247301f9b445e92ceb202eaa591cf65d1.600x338.jpg?t=1787915122",
+            "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751950/f084448247301f9b445e92ceb202eaa591cf65d1/ss_f084448247301f9b445e92ceb202eaa591cf65d1.1920x1080.jpg?t=1787915122"
+          },
+          {
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751950/a79f6dada7c7ca555c1be440793ee46813acf9ca/ss_a79f6dada7c7ca555c1be440793ee46813acf9ca.600x338.jpg?t=1787915122",
+            "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751950/a79f6dada7c7ca555c1be440793ee46813acf9ca/ss_a79f6dada7c7ca555c1be440793ee46813acf9ca.1920x1080.jpg?t=1787915122"
+          },
+          {
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751950/2fc01441720a7f301b3f0abced79b7d9159cb105/ss_2fc01441720a7f301b3f0abced79b7d9159cb105.600x338.jpg?t=1787915122",
+            "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751950/2fc01441720a7f301b3f0abced79b7d9159cb105/ss_2fc01441720a7f301b3f0abced79b7d9159cb105.1920x1080.jpg?t=1787915122"
+          },
+          {
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751950/726ad706a4f31a5325d44bb586010802a9d2a799/ss_726ad706a4f31a5325d44bb586010802a9d2a799.600x338.jpg?t=1787915122",
+            "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751950/726ad706a4f31a5325d44bb586010802a9d2a799/ss_726ad706a4f31a5325d44bb586010802a9d2a799.1920x1080.jpg?t=1787915122"
+          },
+          {
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751950/9553ccbfadad58974d31817949373ce1ac0d8fbf/ss_9553ccbfadad58974d31817949373ce1ac0d8fbf.600x338.jpg?t=1787915122",
+            "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751950/9553ccbfadad58974d31817949373ce1ac0d8fbf/ss_9553ccbfadad58974d31817949373ce1ac0d8fbf.1920x1080.jpg?t=1787915122"
+          }
+        ],
+        "videos": [
+          {
+            "url": "https://cdn.akamai.steamstatic.com/steam/apps/257367816/movie480.mp4",
+            "url_max": "https://cdn.akamai.steamstatic.com/steam/apps/257367816/movie_max.mp4",
+            "url_webm": "https://cdn.akamai.steamstatic.com/steam/apps/257367816/movie480_vp9.webm",
+            "url_hls": "https://video.akamai.steamstatic.com/store_trailers/3751950/1436365422/d22de6585f9be7420afae6827d2d5a096d6db50b/1787234258/hls_264_master.m3u8?t=1787236903",
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257367816/036f2395a46c49cbc8a92541d2510d5d951bd8eb/movie_600x337.jpg?t=1787236903"
+          },
+          {
+            "url": "https://cdn.akamai.steamstatic.com/steam/apps/257367819/movie480.mp4",
+            "url_max": "https://cdn.akamai.steamstatic.com/steam/apps/257367819/movie_max.mp4",
+            "url_webm": "https://cdn.akamai.steamstatic.com/steam/apps/257367819/movie480_vp9.webm",
+            "url_hls": "https://video.akamai.steamstatic.com/store_trailers/3751950/1823752432/337c7f34b49bc3bd6aadeb40f8839f4283008ec5/1782752534/hls_264_master.m3u8?t=1783617049",
+            "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257367819/0ad16d7c00d1f16b1e7932341548221e8ce97142/movie_600x337.jpg?t=1783617049"
+          }
+        ]
+      }
     }
   ],
-  "ultimo_id": 38708,
+  "ultimo_id": 38948,
   "chat_id": -1001634508656,
   "ultimas_subidas": [
-    38665,
-    38667,
-    38564,
-    38708,
-    38597,
-    38482,
-    38491,
-    38621,
-    38493,
-    38623,
-    38496,
-    38626,
-    38499,
-    38629,
-    38637,
-    38645,
-    38647,
-    38649,
-    38524
+    38848,
+    38820,
+    38948,
+    38758,
+    38760,
+    38826,
+    38922,
+    38924,
+    38928,
+    38834,
+    38866,
+    38932,
+    38930,
+    38903,
+    38744
   ]
 }
